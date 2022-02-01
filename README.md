@@ -1,6 +1,14 @@
 # ENEM APP
 Repositório para desenvolvimento do projeto do Aplicativo ENEM, da disciplina Requisitos de Software. FGA - UnB.
 
+## 1. Sobre o projeto
+
+Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo do ENEM. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina, como pré-rastreamento, heurística, modelagem, análise e pós-rastreamento para melhorar os requisitos não funcionais e funcionais do aplicativo.
+
+## 2. Sobre o ENEM
+
+Disponível para celulares iOS e Android desde a versão 2016 do Enem, o Aplicativo Enem tem como objetivo facilitar a vida dos vestibulandos, reunindo todas as principais informações sobre o exame para que possam ser acessadas diretamente pelo celular.
+
 <div align="center">
   <img alt="size-badge" src="https://user-images.githubusercontent.com/51385738/151979888-94595587-38f4-4c02-ab8f-fccd5ddc0ba7.JPG"/>
 </div>
