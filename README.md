@@ -2,7 +2,7 @@
 Repositório para desenvolvimento do projeto do Aplicativo ENEM, da disciplina Requisitos de Software. FGA - UnB.
 
 <div align="center">
-  <img alt="size-badge" src="https://user-images.githubusercontent.com/51385738/151979888-94595587-38f4-4c02-ab8f-fccd5ddc0ba7.JPG"/>
+  <img alt="size-badge" src="https://user-images.githubusercontent.com/53023400/151982633-63416396-f5e6-4049-ba0a-0c505efbbecc.png"/>
 </div>
 
 ## 1. Sobre o projeto
