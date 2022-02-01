@@ -20,7 +20,6 @@ Disponível para celulares iOS e Android desde a versão 2016 do Enem, o Aplicat
 
 
 <table>
-  
   <tr>
     <td align="center">
       <a href="#">
@@ -69,9 +68,7 @@ Disponível para celulares iOS e Android desde a versão 2016 do Enem, o Aplicat
           <b>Vitor Diniz</b>
         </sub>
       </a>
-    </td>
-
-    
+    </td>    
 </table>
 
 <br/> 

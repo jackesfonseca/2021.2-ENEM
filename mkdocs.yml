@@ -1,0 +1,30 @@
+site_name: 'ENEM'
+
+repo_name: '2021.2-ENEM'
+repo_url: 'https://github.com/Requisitos-de-Software/2021.2-ENEM'
+
+theme:
+  name: 'material'
+  language: 'pt'
+  logo: 'assets/favicon.svg'
+  favicon: 'assets/favicon.svg'
+  palette:
+    primary: '#fff'
+    accent: '#0B4D9B'
+  font:
+    text: 'Montserrat'
+    code: 'sans-serif'
+
+extra_css:
+  - stylesheets/styles.css
+
+nav:
+  - Início: index.md
+  - Planejamento:
+      # - Metodologia: planejamento/metodologia.md
+      - Cronograma: planejamento/cronograma.md
+      # - Ferramentas: planejamento/ferramentas.md
+
+plugins:
+  - search
+dev_addr: '0.0.0.0:8000'

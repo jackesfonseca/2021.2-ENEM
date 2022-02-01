@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# ENEM APP 
+Repositório para desenvolvimento do projeto do Aplicativo ENEM, da disciplina Requisitos de Software. FGA - UnB.
 
-You can use the [editor on GitHub](https://github.com/Requisitos-de-Software/2021.2-ENEM-APP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div align="center">
+  <img alt="size-badge" src="https://user-images.githubusercontent.com/53023400/151982633-63416396-f5e6-4049-ba0a-0c505efbbecc.png"/>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. Sobre o projeto
 
-### Markdown
+Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo do ENEM. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina, como pré-rastreamento, heurística, modelagem, análise e pós-rastreamento para melhorar os requisitos não funcionais e funcionais do aplicativo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GitHub Pages: https://requisitos-de-software.github.io/2021.2-ENEM/
 
-```markdown
-Syntax highlighted code block
+## 2. Sobre o ENEM
 
-# Header 1
-## Header 2
-### Header 3
+Disponível para celulares iOS e Android desde a versão 2016 do Enem, o Aplicativo Enem tem como objetivo facilitar a vida dos vestibulandos, reunindo todas as principais informações sobre o exame para que possam ser acessadas diretamente pelo celular.
 
-- Bulleted
-- List
+## Colaboradores
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<table>
+  
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/57496213?v=4" width="100px;" alt="Foto Antonio Rangel"/><br>
+        <sub>
+          <b>Antonio Rangel</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/62192072?v=4" width="100px;" alt="Foto do Carlos Rafael"/><br>
+        <sub>
+          <b>Carlos Rafael</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/51385738?v=4" width="100px;" alt="Foto Eduardo Gurgel"/><br>
+        <sub>
+          <b>Eduardo Gurgel</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/53023400?v=4" width="100px;" alt="Foto Jackes da Fonseca"/><br>
+        <sub>
+          <b>Jackes da Fonseca</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/62119022?v=4" width="100px;" alt="Foto Pedro Henrique"/><br>
+        <sub>
+          <b>Pedro Henrique</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/49206588?v=4" width="100px;" alt="Foto Vitor Diniz"/><br>
+        <sub>
+          <b>Vitor Diniz</b>
+        </sub>
+      </a>
+    </td>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    
+</table>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Requisitos-de-Software/2021.2-ENEM-APP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br/> 
