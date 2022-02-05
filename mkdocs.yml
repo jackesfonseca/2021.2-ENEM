@@ -23,8 +23,9 @@ nav:
   - Planejamento:
       # - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
+      
       # - Ferramentas: planejamento/ferramentas.md
-
+      - Ferramentas: planejamento/ferramentas.md
 plugins:
   - search
 dev_addr: '0.0.0.0:8000'
