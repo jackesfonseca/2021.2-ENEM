@@ -27,8 +27,11 @@ nav:
       # - Ferramentas: planejamento/ferramentas.md
       - Ferramentas: planejamento/ferramentas.md
       
-      # Rich picture:
+      # Rich picture: planejamento/rich_picture.md
       - Rich Picture: planejamento/rich_picture.md
+      
+      # Metodologia: planejamento/metodologia.md
+      - Metodologia: planejamento/metodologia.md
       
   - Apresentações:
   
