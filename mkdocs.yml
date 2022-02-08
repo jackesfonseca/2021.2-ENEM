@@ -32,7 +32,7 @@ nav:
       
   - Apresentações:
   
-      - Apresentação 1: apresentação 1/apresentacao1.md
+      - Apresentação 1: apresentacoes/apresentacao1.md
       
 plugins:
   - search
