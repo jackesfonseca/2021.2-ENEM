@@ -2,7 +2,7 @@
 
 ## Versão 0.0.1
 
-<img src="../planejamento/img/rich_picture-v1.png">
+![v0.0.1](img/rich_picture-v1.png)
 
 <br/>
 
