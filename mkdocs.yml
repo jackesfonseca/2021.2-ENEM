@@ -26,6 +26,9 @@ nav:
       
       # - Ferramentas: planejamento/ferramentas.md
       - Ferramentas: planejamento/ferramentas.md
+      
+      # Rich picture:
+      - Rich Picture: planejamento/rich_picture.md
 plugins:
   - search
 dev_addr: '0.0.0.0:8000'
