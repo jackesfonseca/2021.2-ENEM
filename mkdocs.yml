@@ -30,6 +30,10 @@ nav:
       # Rich picture:
       - Rich Picture: planejamento/rich_picture.md
       
+  - Apresentações:
+  
+      - Apresentação 1: apresentação 1/apresentacao1.md
+      
 plugins:
   - search
 dev_addr: '0.0.0.0:8000'
