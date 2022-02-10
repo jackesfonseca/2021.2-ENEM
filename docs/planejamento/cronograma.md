@@ -22,15 +22,6 @@
 
 </center>
 
-## 3. Histórico de versão
-
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 01/02/2022 | Criação da introdução | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
-| 0.2    | 01/02/2021 | Adição do cronograma de atividades | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
-| 0.3    | 01/02/2021 | Correções de formatação | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
-| 0.4    | 10/02/2022 | Alteração do cabeçalho do cronograma                | Antonio Rangel |
-
 ## 4. Cronograma de disponibilidade da equipe (Heatmap)
 
 <div align="center">
@@ -40,3 +31,14 @@
 <center>
   <figcaption>Autor: Jackes Fonseca</figcaption>
 </center>
+
+## 3. Histórico de versão
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 1.0    | 01/02/2022 | Criação do documento | Eduardo Gurgel       |
+| 1.1    | 01/02/2022 | Criação da introdução | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
+| 1.2    | 01/02/2021 | Adição do cronograma de atividades | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
+| 1.3    | 01/02/2021 | Correções de formatação | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
+| 1.4    | 10/02/2022 | Alteração do cabeçalho do cronograma | Antonio Rangel |
+| 1.5    | 10/02/2022 | Padronização do versionamento | Jackes da Fonseca   |
