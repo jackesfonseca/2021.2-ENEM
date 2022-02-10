@@ -9,7 +9,6 @@
 | ![Teams](./img/teams.png) | Teams | Gravação dos vídeos. |
 | ![Whatsapp](./img/whatsapp.png) | Whatsapp | Ferramenta para comunicação da equipe. |
 <h6 align = "center">Tabela : Tabela contendo as ferramentas utilizadas no projeto</h6>
-<h6 align = "center">Fonte: Autor</h6>
 
 ## 3. Histórico de versão
 
