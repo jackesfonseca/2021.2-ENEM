@@ -19,6 +19,6 @@
 
 | Versão | Data       | Descrição                       | Autor                |
 | ------ | ---------- | ------------------------------- | -------------------- |
-| 1.1    | 05/02/2022 | Gravação da apresentação        | Todos os integrantes |
-| 1.2    | 08/02/2022 | Adição do vídeo no documento    | Jackes Tiago Ferreira da Fonseca         |
-| 1.3    | 08/02/2022 | Adição dos Slides               | Jackes Tiago Ferreira da Fonseca    |
+| 1.0    | 05/02/2022 | Gravação da apresentação        | Todos os integrantes |
+| 1.1    | 08/02/2022 | Adição do vídeo no documento    | Jackes Tiago Ferreira da Fonseca         |
+| 1.2    | 08/02/2022 | Adição dos Slides               | Jackes Tiago Ferreira da Fonseca    |
