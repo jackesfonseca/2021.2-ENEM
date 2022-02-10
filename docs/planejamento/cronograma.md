@@ -8,7 +8,7 @@
 
 <center>
 
-| Etapas | Título       | Data                                           | Descrição        | Apresentação        |
+| Etapas | Título       | Data de início                                           | Descrição        | Data de entrega        |
 | :------: | :----------: | :---------------------------------------------------: | :------------: | :------------: |
 | I    | Planejamento | 27/01 | Planejamento do projeto e RichPicture | 06/02 |
 | II    | Elicitação | 08/02 | Técnicas e Priorização | 20/02 |
@@ -29,9 +29,14 @@
 | 0.1    | 01/02/2022 | Criação da introdução | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
 | 0.2    | 01/02/2021 | Adição do cronograma de atividades | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
 | 0.3    | 01/02/2021 | Correções de formatação | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
+| 0.4    | 10/02/2022 | Alteração do cabeçalho do cronograma                | Antonio Rangel |
 
 ## 4. Cronograma de disponibilidade da equipe (Heatmap)
 
 <div align="center">
   <img alt="size-badge" src="https://user-images.githubusercontent.com/51385738/152648004-e55bfca0-f0e8-4148-ac66-8cda2d19ef01.JPG"/>
 </div>
+
+<center>
+  <figcaption>Autor: Jackes Fonseca</figcaption>
+</center>
