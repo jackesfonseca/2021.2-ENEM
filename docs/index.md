@@ -75,3 +75,10 @@ Disponível para celulares iOS e Android desde a versão 2016 do Enem, o Aplicat
 </table>
 
 <br/> 
+
+## 3. Histórico de versão
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 1.0    | 01/02/2022 | Criação do documento | Eduardo Gurgel       |
+| 1.1    | 01/02/2022 | Adicionando informações sobre o projeto  | Eduardo Gurgel, Jackes da Fonseca |
