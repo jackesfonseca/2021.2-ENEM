@@ -8,7 +8,7 @@
 
 <center>
 
-| Etapas | Título       | Data                                           | Descrição        | Apresentação        |
+| Etapas | Título       | Data de início                                           | Descrição        | Data de entrega        |
 | :------: | :----------: | :---------------------------------------------------: | :------------: | :------------: |
 | I    | Planejamento | 27/01 | Planejamento do projeto e RichPicture | 06/02 |
 | II    | Elicitação | 08/02 | Técnicas e Priorização | 20/02 |
