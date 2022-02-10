@@ -11,6 +11,15 @@
 <h6 align = "center">Tabela : Tabela contendo as ferramentas utilizadas no projeto</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
+## 3. Histórico de versão
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 1.0    | 05/02/2022 | Criação do documento | Eduardo Gurgel |
+| 1.1    | 05/02/2022 | Adição das imagens | Eduardo Gurgel, Jackes Fonseca |
+| 1.2    | 10/02/2022 | Padronização do versionamento | Jackes da Fonseca |
+
+
 
 
 
