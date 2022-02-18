@@ -1,19 +1,19 @@
-site_name: 'ENEM'
+site_name: "ENEM"
 
-repo_name: '2021.2-ENEM'
-repo_url: 'https://github.com/Requisitos-de-Software/2021.2-ENEM'
+repo_name: "2021.2-ENEM"
+repo_url: "https://github.com/Requisitos-de-Software/2021.2-ENEM"
 
 theme:
-  name: 'material'
-  language: 'pt'
-  logo: 'assets/favicon.svg'
-  favicon: 'assets/favicon.svg'
+  name: "material"
+  language: "pt"
+  logo: "assets/favicon.svg"
+  favicon: "assets/favicon.svg"
   palette:
-    primary: '#fff'
-    accent: '#0B4D9B'
+    primary: "#fff"
+    accent: "#0B4D9B"
   font:
-    text: 'Montserrat'
-    code: 'sans-serif'
+    text: "Montserrat"
+    code: "sans-serif"
 
 extra_css:
   - stylesheets/styles.css
@@ -23,20 +23,51 @@ nav:
   - Planejamento:
       # - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
-      
+
       # - Ferramentas: planejamento/ferramentas.md
       - Ferramentas: planejamento/ferramentas.md
-      
+
       # Rich picture: planejamento/rich_picture.md
       - Rich Picture: planejamento/rich_picture.md
-      
+
       # Metodologia: planejamento/metodologia.md
       - Metodologia: planejamento/metodologia.md
-      
+
+  - Elicitação:
+      - Técnicas de Elicitação:
+          # - Brainstorming: elicitacao/brainstorming.md
+          - Brainstorming: elicitacao/tecnicas-elicitacao/brainstorming.md
+
+          # - Storytelling: elicitacao/storytelling.md
+          - Storytelling: elicitacao/tecnicas-elicitacao/storytelling.md
+
+          # - Instrospecção: elicitacao/instrospeccao.md
+          - Instrospecção: elicitacao/tecnicas-elicitacao/instrospeccao.md
+
+          # - Observação: elicitacao/observacao.md
+          - Observação: elicitacao/tecnicas-elicitacao/observacao.md
+
+          # - Questionário: elicitacao/questionario.md
+          - Questionário: elicitacao/tecnicas-elicitacao/questionario.md
+
+          # - Entrevista: elicitacao/entrevista.md
+          - Entrevista: elicitacao/tecnicas-elicitacao/entrevista.md
+
+          # - Análise de Documento: elicitacao/analise-de-documento.md
+          - Análise de Documento: elicitacao/tecnicas-elicitacao/analise-de-documento.md
+
+      - Técnicas de Priorização:
+          # - MoSCoW: elicitacao/tecnicas-priorizacao/MoSCoW.md
+          - MoSCoW: elicitacao/tecnicas-priorizacao/MoSCoW.md
+
+          # - Gráfico Tempo X Esforço: elicitacao/tecnicas-priorizacao/grafico-tempo-esforço.md
+          - Gráfico Tempo X Esforço: elicitacao/tecnicas-priorizacao/grafico-tempo-esforço.md
+
+      - Resultado: elicitacao/resultado.md
+
   - Apresentações:
-  
       - Apresentação 1: apresentacoes/apresentacao1.md
-      
+
 plugins:
   - search
-dev_addr: '0.0.0.0:8000'
+dev_addr: "0.0.0.0:8000"
