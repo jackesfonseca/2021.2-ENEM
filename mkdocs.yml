@@ -35,11 +35,14 @@ nav:
 
   - Elicitação:
       - Técnicas de Elicitação:
+          # - Análise de Documento: elicitacao/analise-de-documento.md
+          - Análise de Documento: elicitacao/tecnicas-elicitacao/analise-de-documento.md
+
           # - Brainstorming: elicitacao/brainstorming.md
           - Brainstorming: elicitacao/tecnicas-elicitacao/brainstorming.md
-
-          # - Storytelling: elicitacao/storytelling.md
-          - Storytelling: elicitacao/tecnicas-elicitacao/storytelling.md
+          
+          # - Entrevista: elicitacao/entrevista.md
+          - Entrevista: elicitacao/tecnicas-elicitacao/entrevista.md
 
           # - Instrospecção: elicitacao/instrospeccao.md
           - Instrospecção: elicitacao/tecnicas-elicitacao/instrospeccao.md
@@ -50,11 +53,8 @@ nav:
           # - Questionário: elicitacao/questionario.md
           - Questionário: elicitacao/tecnicas-elicitacao/questionario.md
 
-          # - Entrevista: elicitacao/entrevista.md
-          - Entrevista: elicitacao/tecnicas-elicitacao/entrevista.md
-
-          # - Análise de Documento: elicitacao/analise-de-documento.md
-          - Análise de Documento: elicitacao/tecnicas-elicitacao/analise-de-documento.md
+          # - Storytelling: elicitacao/storytelling.md
+          - Storytelling: elicitacao/tecnicas-elicitacao/storytelling.md
 
       - Técnicas de Priorização:
           # - MoSCoW: elicitacao/tecnicas-priorizacao/MoSCoW.md
