@@ -26,4 +26,4 @@ Na figura 01 temos a matriz é dividida em dois eixos, vertical e horizontal. O 
 |  Versão  |     Data     |           Descrição           |      Autor      |
 |----------|--------------|--------------------------------|-----------------|
 | 1.0      |  18/02/2022   |Criação do documento           | Carlos rafel   |
-| 1.1     |  19/02/2022   |Adicionando informações sobre a técnica Gráfico de Tempo x Esforço           | Jackes Fonseca   |
+| 1.1     |  19/02/2022   |Adicionando informações sobre a técnica Gráfico de Tempo x Esforço           | Jackes Fonseca, Vitor Diniz   |
