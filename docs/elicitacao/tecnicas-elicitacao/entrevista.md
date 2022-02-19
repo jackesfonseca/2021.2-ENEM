@@ -1,13 +1,13 @@
 # Entrevista
 
-## 1.Introdução
+## Introdução
 
 
 &nbsp;
 A entrevista é uma forma de diálogo formal ou informal, entre duas ou mais pessoas,
 onde o entrevistador busca respostas  para um conjunto de questões previamente planejadas
 e os entrevistados se apresentam como fonte de informação [1]. Durante a conversa o entrevistado irá fornecer os requisitos funcionais e não funcionais através das ideias que o mesmo possui sobre o software. Cabe ao entrevistador estimular o entrevistado a dar detalhes sobre os requisitos[2]. 
-## 2.Metodologia
+## Metodologia
 
 
 &nbsp;
@@ -16,7 +16,7 @@ A técnica usada para a formulação das perguntas foi a do Funil, que consiste 
 
 &nbsp;
 As questões abertas mencionadas acima exigem uma resposta "livre", onde são usadas para coletar opiniões ou em situações exploratórias[4]. Já as questões fechadas são mais diretas, onde o entrevistado não possui muito espaço para elaborar uma resposta longa[5].
-## 3.Entrevista
+## Entrevista
 
 
 &nbsp;
@@ -69,17 +69,25 @@ Qual foi a funcionalidade do app do ENEM que você achou mais importante?
 
 &nbsp;
 
-## 4.Requisitos Levantados
-| ID | Tipo de requisito       | Descrição                                     |
-| -- | ----------------------- | --------------------------------------------- |
-| 1  | Requisito funcional     | Acessar a nota da prova do ENEM               |
-| 2  | Requisito não funcional | Estabilidade do sistema               |
+## Requisitos Funcionais
 
-## 5 Referências
+| ID | Requisito | 
+|----|-----------|
+| EF 01 | O usuário pode acessar a nota da prova do ENEM |
+
+## Requisitos não funcionais
+
+| ID | Requisito | 
+|----|-----------|
+| EF 01 | O sistema deve ter estabilidade |
+
+## Referências
 [1][2][3][4][5] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. **Engenharia de Requisitos - Software Orientado ao Negócio**, 2016.
 
-## 6. Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
-| 1.0    | 18/02/2022 | Criação do documento | Antonio Rangel        |
+| 1.0    | 18/02/2022 | Criação do documento | Carlos Rafael       |
+| 1.1    | 19/02/2022 | Adicionando informaçãoes sobre a técnica entrevista | Antonio Rangel        |
+| 1.2    | 19/02/2022 | Revisão do documento | Jackes da Fonseca        |
