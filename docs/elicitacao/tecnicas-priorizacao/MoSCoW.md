@@ -27,4 +27,4 @@ MoSCoW é uma técnica de análise de de requisitos, que tem como objetivo de at
 | Versão | Data       | Descrição                       | Autor                |
 | ------ | ---------- | ------------------------------- | -------------------- |
 | 1.0    | 18/02/2022 | Criação do documento            | Carlos Rafael    |
-| 1.1    | 19/02/2022 | Adicionando informações sobre a técnica MoSCoW           | Jackes Fonseca    |
+| 1.1    | 19/02/2022 | Adicionando informações sobre a técnica MoSCoW           | Jackes Fonseca, Vitor Diniz    |
