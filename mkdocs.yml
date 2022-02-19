@@ -21,7 +21,6 @@ extra_css:
 nav:
   - Início: index.md
   - Planejamento:
-
       # Metodologia: planejamento/metodologia.md
       - Metodologia: planejamento/metodologia.md
 
@@ -31,11 +30,8 @@ nav:
       # - Cronograma: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
 
-    
-
-
- - Pré-rastreabilidade:
-       # Rich picture: planejamento/rich_picture.md
+  - Pré-rastreabilidade:
+      # Rich picture: planejamento/rich_picture.md
       - Rich Picture: planejamento/rich_picture.md
 
   - Elicitação:
@@ -45,7 +41,7 @@ nav:
 
           # - Brainstorming: elicitacao/brainstorming.md
           - Brainstorming: elicitacao/tecnicas-elicitacao/brainstorming.md
-          
+
           # - Entrevista: elicitacao/entrevista.md
           - Entrevista: elicitacao/tecnicas-elicitacao/entrevista.md
 
