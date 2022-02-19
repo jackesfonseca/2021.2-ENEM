@@ -11,10 +11,11 @@ MoSCoW é uma técnica de análise de de requisitos, que tem como objetivo de at
 - **C**ould: Requisito que é apenas desejável para o produto, requisito que deve ser implementado somente se ouver tempo e os recursos permitam.
 - **W**ould ou **W**on't: Requisito dispensável, que pode ser adicionado em outro momento ou até mesmo em outros projetos, mesmo que seja marcado como não importante a atribuição ainda indica que a funcionalidade foi avaliada.
 
-
-<br><figcaption class="center"><center> Figura 1 - Descrição de cada prioridade.</center> </figcaption>
-<img src="https://user-images.githubusercontent.com/53023400/154810940-def1f42d-234d-441f-95ff-5e17d104b388.png" class="center">
-<figcaption class="center"><center>Fonte: CRRUX, CrruxHQ </center> </figcaption>
+<center>
+  <br><figcaption class="center"> Figura 1 - Descrição de cada prioridade. </figcaption>
+  <img src="https://user-images.githubusercontent.com/53023400/154810940-def1f42d-234d-441f-95ff-5e17d104b388.png" class="center">
+  <figcaption class="center">Fonte: CRRUX, CrruxHQ</figcaption>
+</center>
 
 ## Bibliografia
 
