@@ -33,4 +33,4 @@ Todos os participantes demonstraram insatisfação em relação à quantidade de
 | Versão | Data       | Descrição                       | Autor                |
 | ------ | ---------- | ------------------------------- | -------------------- |
 | 1.0    | 18/02/2022 | Criação do documento            | Carlos Rafael    |
-| 1.1    | 19/02/2022 | Adicionando informações sobre a técnica Observação          | Jackes Fonseca    |
+| 1.1    | 19/02/2022 | Adicionando informações sobre a técnica Observação          | Jackes Fonseca, Vitor Diniz    |
