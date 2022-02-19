@@ -12,7 +12,7 @@ Na figura 01 temos a matriz é dividida em dois eixos, vertical e horizontal. O 
 <br>Podemos aplicar a técnica de MoSCoW a matriz de Esforço X Impacto (tempo) assim obtendo uma prioziação em relação ao tempo, o que não é possivel com o MosCow. Na Figura 02 temos represtando os termos do MoSCoW - must, should, could, want - na matriz esfoço tempo.
 
 <center>
-  <br><figcaption class="center"> Figura 1 - Matriz Esforço x Impacto aplicada ao MoSCoW </figcaption>
+  <br><figcaption class="center"> Figura 2 - Matriz Esforço x Impacto aplicada ao MoSCoW </figcaption>
   <img width="400" src="https://user-images.githubusercontent.com/53023400/154812316-5fedc81e-cf61-42f2-813c-96c224c52006.png" class="center">
   <figcaption class="center">Fonte: Matriz  Esforço x Impacto aplicada à técnica MoSCoW. Site campus. </figcaption>
 </center>
@@ -26,4 +26,4 @@ Na figura 01 temos a matriz é dividida em dois eixos, vertical e horizontal. O 
 |  Versão  |     Data     |           Descrição           |      Autor      |
 |----------|--------------|--------------------------------|-----------------|
 | 1.0      |  18/02/2022   |Criação do documento           | Carlos rafel   |
-| 1.1     |  19/02/2022   |Adicionando informações sobre a técnica Gráfico de Tempo x Esforço           | Jackes da Fonseca   |
+| 1.1     |  19/02/2022   |Adicionando informações sobre a técnica Gráfico de Tempo x Esforço           | Jackes Fonseca   |
