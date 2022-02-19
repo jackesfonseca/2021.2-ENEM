@@ -1,8 +1,12 @@
 # Metodologias
 
+## Introdução
+
+As metodologias são utilizadas para dar direcionamento á algum objetivo; de forma que não fujam muito do escopo da discussão ou atividade. Essas metodologias tem características comuns, muitas delas, são divididas em etapas/passos para que o contexto geral seja quebrado, refatorado e abstraido continuarmente.
+
 ## 1. Extreme Programming (XP)
- 
-Extreme programming, mais conhecido como XP, é uma metodologia ágil de desenvolvimento de software que tem como objetivo produzir software de alta qualidade e, também, melhor qualidade de vida para a equipe de desenvolvimento. A metodologia XP capacita seus desenvolvedores a lidarem com confiança às mudanças nos requisitos do cliente, mesmo no final de ciclo de vida. Além disso, Don Wells (1999) diz que a XP é configurada para pequenos grupos de programadores. A equipe XP inclui não apenas desenvolvedores, mas também gerentes e clientes, todos trabalhando junto. 
+
+Extreme programming, mais conhecido como XP, é uma metodologia ágil de desenvolvimento de software que tem como objetivo produzir software de alta qualidade e, também, melhor qualidade de vida para a equipe de desenvolvimento. A metodologia XP capacita seus desenvolvedores a lidarem com confiança às mudanças nos requisitos do cliente, mesmo no final de ciclo de vida. Além disso, Don Wells (1999) diz que a XP é configurada para pequenos grupos de programadores. A equipe XP inclui não apenas desenvolvedores, mas também gerentes e clientes, todos trabalhando junto.
 
 Os valores básicos para facilitar o trabalho do grupo no XP são:
 
@@ -32,9 +36,19 @@ Vamos listar todas as tarefas que temos que fazer durante a semana por meio da p
 
 Os commits e as adições de documentações no github serão feitas no padrão do Git Flow, sendo necessária a criação de branches novas a partir da branch main para adicionar as features principais, isso organizará melhor o repositório, evitando conflitos e versões erradas do projeto, também serão utilizadas as funções de issues e pull-requests existentes no github para melhor organização das tarefas.
 
-## 6. Histórico de versão
+<br/>
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 1.0    | 10/02/2022 | Criação do documento | Jackes Fonseca |
-| 1.1    | 13/02/2022 | Elaboração do documento | Vitor Diniz |
+## 7. Bibliografia
+
+[O que é scrum?](https://www.treasy.com.br/blog/scrum/)
+
+[Git Flow - Conventional commits](https://gist.github.com/vtenq/7a93687108cb876f884c3ce75a8a8023)
+
+<br/>
+
+## 8. Histórico de versão
+
+| Versão | Data       | Descrição               | Autor          |
+| ------ | ---------- | ----------------------- | -------------- |
+| 1.0    | 10/02/2022 | Criação do documento    | Jackes Fonseca |
+| 1.1    | 13/02/2022 | Elaboração do documento | Vitor Diniz    |
