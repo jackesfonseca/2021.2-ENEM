@@ -19,7 +19,7 @@ Storytelling é um método que consiste em utilizar palavras ou recursos audiovi
 | **Habilidades**  | Tem como principal habilidade a lógica de programação e matemática, conseguiu uma boa colocação em todas olímpiadas de matemática que participou, além disso, sabe programar jogos. |
 | **Tarefas**      | Durante a manhã, vai a escola e retorna por volta das 12:30, almoça e as 15:00 da inicio a suas aulas no cursinho pré vestibular.                                                   |
 | **Requisitos**   | Conhece bem sobre tecnologia, aparelhos eletrônicos não são um problema.                                                                                                            |
-| **Expectativas** | Tem como objetivo consultar notas de corte (sisu, prouni), ver o cronograma de provas e consultar notas do exame sejam anteriores ou atuais.                                        |
+| **Expectativas** | Tem como objetivo consultar notas do exame sejam anteriores ou atuais , ver o cronograma de provas, ver o escopo de conteúdos do exame e visualizar métricas gerais dos candidatos. |
 
 </br>
 <h3 align="center"> Alicia Reis </h3>
@@ -55,16 +55,40 @@ Storytelling é um método que consiste em utilizar palavras ou recursos audiovi
 | **Requisitos**   | Trabalha na área de TI, portanto, tem facilidade com dispositivos eletrônicos e interpretação de elementos/textos.                                                                   |
 | **Expectativas** | Deseja coletar métricas/dados(Média de notas, notas de corte, perfil) dos participantes que estudam na sua atual empresa na área de ensino                                           |
 
-## Bibliográfia
+## 3. Requisitos funcionais
+
+|  ID   |                                   Requisitos                                    |
+| :---: | :-----------------------------------------------------------------------------: |
+| IF 01 |              O usuário deve ser capaz de consultar notas do exame               |
+| IF 02 |           O usuário deve ser capaz de consultar cronogramas de provas           |
+| IF 03 |             O usuário deve ser capaz de consultar exames anteriores             |
+| IF 04 |             O usuário deve ser capaz de baixar simulados ou exames              |
+| IF 04 |          O usuário deve ser capaz de visualizar métricas sobre o exame          |
+| IF 05 | O usuário deve ser capaz de visualizar métricas de desempenho dos participantes |
+| IF 06 |               O usuário deve ser capaz de extrair dados públicos                |
+| IF 07 |        O usuário deve ser capaz de consultar escopo de conteúdo do exame        |
+
+## 4. Requisitos não funcionais
+
+|   ID   |                                      Requisitos                                      |
+| :----: | :----------------------------------------------------------------------------------: |
+| INF 01 |                       O aplicativo deve ter o design intuitivo                       |
+| INF 02 |                  A base de dados do aplicativo deverá ser escalavel                  |
+| INF 03 |                      Parte do aplicativo deve funcionar offline                      |
+| INF 04 |            O aplicativo não deverá fornecer dados sensiveis em suas APIs             |
+| INF 05 | O aplicativo deve atender as normas legais de dados de acordo com leis, normas e etc |
+
+## 5. Bibliográfia
 
 [O que é Storytelling](https://rockcontent.com/br/talent-blog/storytelling/)
 
 [O que é analista de dados](https://blog.indicium.tech/analista-de-dados-quem-sao-quanto-ganham/)
 
-## Histórico de versão
+## 6. Histórico de versão
 
-| Versão | Data       | Descrição                                | Autor                                |
-| ------ | ---------- | ---------------------------------------- | ------------------------------------ |
-| 1.0    | 17/02/2022 | Criação do documento                     | Carlos Rafael, Pedro Henrique Castro |
-| 1.1    | 18/02/2022 | Elaboração da primeira persona           | Carlos Rafael, Pedro Henrique Castro |
-| 1.2    | 19/02/2022 | Elaboração da segunda e terceira persona | Carlos Rafael, Pedro Henrique Castro |
+| Versão | Data       | Descrição                                              | Autor                                |
+| ------ | ---------- | ------------------------------------------------------ | ------------------------------------ |
+| 1.0    | 17/02/2022 | Criação do documento                                   | Carlos Rafael, Pedro Henrique Castro |
+| 1.1    | 18/02/2022 | Elaboração da primeira persona                         | Carlos Rafael, Pedro Henrique Castro |
+| 1.2    | 19/02/2022 | Elaboração da segunda e terceira persona               | Carlos Rafael, Pedro Henrique Castro |
+| 1.3    | 20/02/2022 | Levantamento de requisitos funcionais e não funcionais | Carlos Rafael, Pedro Henrique Castro |
