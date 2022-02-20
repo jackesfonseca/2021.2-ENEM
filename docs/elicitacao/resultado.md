@@ -38,7 +38,7 @@ O objetivo desse documento é reunir todos os requistos que foram elicitados par
 | RNF03 |  O aplicativo deve proteger os dados dos usuários | BF, IF, QF  | MUST  |
 | RNF04 |  O aplicativo deve ser acessível para Pessoas com Deficiência (PcD) | BF, IF, QF  | MUST  |
 | RNF05 |  O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos | BF, EF, IF, OF, QF  | MUST  |
-| RNF06 |  O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo | BF, IF  |   |
+| RNF06 |  O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo | BF, IF  | MUST  |
 | RNF07 |  O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada | BF, QF, SF  | SHOULD |
 | RNF08 |  O aplicativo deve deve se adaptar bem a dispositivos mobile | BF  | MUST  |
 | RNF10 |  O aplicativo deve possuir funcionalidades em modo offline | SF  | COULD  |
