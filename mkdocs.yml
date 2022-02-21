@@ -36,8 +36,6 @@ nav:
 
   - Elicitação:
       - Técnicas de Elicitação:
-          # - Análise de Documento: elicitacao/analise-de-documento.md
-          - Análise de Documento: elicitacao/tecnicas-elicitacao/analise-de-documento.md
 
           # - Brainstorming: elicitacao/brainstorming.md
           - Brainstorming: elicitacao/tecnicas-elicitacao/brainstorming.md
