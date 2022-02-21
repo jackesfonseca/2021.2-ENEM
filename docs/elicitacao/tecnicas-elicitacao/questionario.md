@@ -67,20 +67,20 @@ Outro ponto importante também, é que a maioria dos usuários disseram que o ap
 ## Requisitos Funcionais
 | ID | Requisitos | 
 |:--:|:--:|
-| IF 01 | O usuário deve ser capaz de visualizar o cronograma da prova | 
-| IF 02 | O usuário deve ser capaz de visualizar sua pontuação após um simulado | 
-| IF 03 | O usuário deve ser capaz de acompanhar sua inscrição | 
-| IF 04 | O usuário deve ser capaz de visualizar/baixar/imprimir sua nota de provas do Enem | 
-| IF 05 | O usuário deve ser capaz de visualizar/baixar/imprimir as provas do Enem |
+| QF 01 | O usuário deve ser capaz de visualizar o cronograma da prova | 
+| QF 02 | O usuário deve ser capaz de visualizar sua pontuação após um simulado | 
+| QF 03 | O usuário deve ser capaz de acompanhar sua inscrição | 
+| QF 04 | O usuário deve ser capaz de visualizar/baixar/imprimir sua nota de provas do Enem | 
+| QF 05 | O usuário deve ser capaz de visualizar/baixar/imprimir as provas do Enem |
  
 ## Requisitos Não-Funcionais
 | ID | Requisitos | 
 |:--:|:--:|
-| INF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | 
-| INF 02 | O aplicativo deve proteger os dados dos usuários | 
-| INF 03 | O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos |
-| INF 04 | O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada |
-| INF 05 | O aplicativo deve deve se adaptar bem a dispositivos mobile |
+| QNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | 
+| QNF 02 | O aplicativo deve proteger os dados dos usuários | 
+| QNF 03 | O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos |
+| QNF 04 | O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada |
+| QNF 05 | O aplicativo deve deve se adaptar bem a dispositivos mobile |
 
 ## Histórico de versão
 | Versão | Data       | Descrição                                           | Autor        |
