@@ -9,29 +9,29 @@ Foi realizada uma reunião no dia 17/02/2022 com duração aproximada de 1 hora 
 ## 3. Requisitos Funcionais
 | ID | Requisitos | 
 |:--:|:--:|
-| IF 01 | O usuário deve ser capaz de fazer op login através do gov.br | 
-| IF 02 | O usuário deve ser capaz de visualizar o cronograma da prova | 
-| IF 03 | O usuário deve ser capaz de acompanhar sua inscrição | 
-| IF 04 | O usuário deve ser capaz de acompanhar pedido de isenção de taxa de inscrição  | 
-| IF 05 | O usuário deve ser capaz de ter acesso aos avisos e às notícias  | 
-| IF 06 | O usuário deve ser capaz de verificar as perguntas frequentes e as orientações  | 
-| IF 07 | O usuário deve ser capaz de visualizar/baixar/imprimir sua nota de provas do Enem | 
-| IF 08 | O usuário deve ser capaz de visualizar/baixar/imprimir sua vista pedagógica das provas do Enem | 
-| IF 09 | O usuário deve ser capaz de visualizar/baixar/imprimir sua redação das provas do Enem |
-| IF 10 | O usuário deve ser capaz de visualizar/baixar/imprimir seu gabarito das provas do Enem |
-| IF 11 | O usuário deve ser capaz de visualizar/baixar/imprimir as provas do Enem |
+| BF 01 | O usuário deve ser capaz de fazer op login através do gov.br | 
+| BF 02 | O usuário deve ser capaz de visualizar o cronograma da prova | 
+| BF 03 | O usuário deve ser capaz de acompanhar sua inscrição | 
+| BF 04 | O usuário deve ser capaz de acompanhar pedido de isenção de taxa de inscrição  | 
+| BF 05 | O usuário deve ser capaz de ter acesso aos avisos e às notícias  | 
+| BF 06 | O usuário deve ser capaz de verificar as perguntas frequentes e as orientações  | 
+| BF 07 | O usuário deve ser capaz de visualizar/baixar/imprimir sua nota de provas do Enem | 
+| BF 08 | O usuário deve ser capaz de visualizar/baixar/imprimir sua vista pedagógica das provas do Enem | 
+| BF 09 | O usuário deve ser capaz de visualizar/baixar/imprimir sua redação das provas do Enem |
+| BF 10 | O usuário deve ser capaz de visualizar/baixar/imprimir seu gabarito das provas do Enem |
+| BF 11 | O usuário deve ser capaz de visualizar/baixar/imprimir as provas do Enem |
  
 ## 4. Requisitos Não-Funcionais
 | ID | Requisitos | 
 |:--:|:--:|
-| INF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | 
-| INF 02 | O aplicativo deve recusar o acesso de pessoas não autorizadas |
-| INF 03 | O aplicativo deve proteger os dados dos usuários | 
-| INF 04 | O aplicativo deve ser acessível para Pessoas com Deficiência (PcD) | 
-| INF 05 | O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos |
-| INF 06 | O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo |
-| INF 07 | O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada |
-| INF 08 | O aplicativo deve deve se adaptar bem a dispositivos mobile |
+| BNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | 
+| BNF 02 | O aplicativo deve recusar o acesso de pessoas não autorizadas |
+| BNF 03 | O aplicativo deve proteger os dados dos usuários | 
+| BNF 04 | O aplicativo deve ser acessível para Pessoas com Deficiência (PcD) | 
+| BNF 05 | O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos |
+| BNF 06 | O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo |
+| BNF 07 | O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada |
+| BNF 08 | O aplicativo deve deve se adaptar bem a dispositivos mobile |
 
 ## 5. Bibliografia
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.
