@@ -59,24 +59,24 @@ Storytelling é um método que consiste em utilizar palavras ou recursos audiovi
 
 |  ID   |                                   Requisitos                                    |
 | :---: | :-----------------------------------------------------------------------------: |
-| IF 01 |              O usuário deve ser capaz de consultar notas do exame               |
-| IF 02 |           O usuário deve ser capaz de consultar cronogramas de provas           |
-| IF 03 |             O usuário deve ser capaz de consultar exames anteriores             |
-| IF 04 |             O usuário deve ser capaz de baixar simulados ou exames              |
-| IF 04 |          O usuário deve ser capaz de visualizar métricas sobre o exame          |
-| IF 05 | O usuário deve ser capaz de visualizar métricas de desempenho dos participantes |
-| IF 06 |               O usuário deve ser capaz de extrair dados públicos                |
-| IF 07 |        O usuário deve ser capaz de consultar escopo de conteúdo do exame        |
+| SF 01 |              O usuário deve ser capaz de consultar notas do exame               |
+| SF 02 |           O usuário deve ser capaz de consultar cronogramas de provas           |
+| SF 03 |             O usuário deve ser capaz de consultar exames anteriores             |
+| SF 04 |             O usuário deve ser capaz de baixar simulados ou exames              |
+| SF 04 |          O usuário deve ser capaz de visualizar métricas sobre o exame          |
+| SF 05 | O usuário deve ser capaz de visualizar métricas de desempenho dos participantes |
+| SF 06 |               O usuário deve ser capaz de extrair dados públicos                |
+| SF 07 |        O usuário deve ser capaz de consultar escopo de conteúdo do exame        |
 
 ## 4. Requisitos não funcionais
 
 |   ID   |                                      Requisitos                                      |
 | :----: | :----------------------------------------------------------------------------------: |
-| INF 01 |                       O aplicativo deve ter o design intuitivo                       |
-| INF 02 |                  A base de dados do aplicativo deverá ser escalavel                  |
-| INF 03 |                      Parte do aplicativo deve funcionar offline                      |
-| INF 04 |            O aplicativo não deverá fornecer dados sensiveis em suas APIs             |
-| INF 05 | O aplicativo deve atender as normas legais de dados de acordo com leis, normas e etc |
+| SNF 01 |                       O aplicativo deve ter o design intuitivo                       |
+| SNF 02 |                  A base de dados do aplicativo deverá ser escalavel                  |
+| SNF 03 |                      Parte do aplicativo deve funcionar offline                      |
+| SNF 04 |            O aplicativo não deverá fornecer dados sensiveis em suas APIs             |
+| SNF 05 | O aplicativo deve atender as normas legais de dados de acordo com leis, normas e etc |
 
 ## 5. Bibliográfia
 
