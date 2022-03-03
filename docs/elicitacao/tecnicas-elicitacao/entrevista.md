@@ -28,6 +28,10 @@ Entrevistado: Gustavo Pena Mauri
 
 
 &nbsp;
+Duração da entrevista: 6 minutos
+
+
+&nbsp;
 Na sua opinião, quais são os pontos positivos do app do ENEM?
 
 
