@@ -1,4 +1,4 @@
-## Introdução
+## 1. Introdução
 
 O questionário é uma técnica simples, mas muito importante para entender o usuário. Com a participação do público conseguimos perceber como o aplicativo é utilizado, possibilitando elicitar os requisitos a partir das respostas dadas.
 As respostas listadas no nosso questionário nos ajudaram a expor qual o público que mais utiliza o aplicativo, quais as preferências do usuário e também as melhorias a serem aplicadas.
@@ -8,7 +8,7 @@ As respostas listadas no nosso questionário nos ajudaram a expor qual o públic
 |-----------------|
 | 19/02/2022 - 21/02/2022 |
 
-## Perguntas utilizadas
+## 2. Perguntas utilizadas
 
 As perguntas foram pensadas para buscar entender qual o perfil do usuário, também objetivando saber quais recursos são importantes e quais devem ser melhorados. Além disso também deixamos uma pergunta aberta para o público sugerir alguma melhoria ao Aplicativo.
 - Qual a sua faixa de idade?
@@ -21,7 +21,7 @@ As perguntas foram pensadas para buscar entender qual o perfil do usuário, tamb
 - O que você achou da ideia do Aplicativo?
 - O que você acha que falta no Aplicativo?
 
-## Resultados
+## 3. Resultados
 
 ### Questão 1
 ![Questão 1](https://user-images.githubusercontent.com/51385738/155002741-aaff7f44-dc21-4224-be3d-bfbe9bfc66a2.PNG)
@@ -58,13 +58,13 @@ As perguntas foram pensadas para buscar entender qual o perfil do usuário, tamb
 ![Questão 9](https://user-images.githubusercontent.com/51385738/155002907-81c866de-fb79-4dde-9c4c-9bdd4edf8351.PNG)
 
 
-## Análise
+## 4. Análise
 
 Os resultados do questionário apresentado nos mostram que, por exemplo, a fauxa de idade do público está concentrada entre 18 e 24 anos, que a grande maioria do público já fez Enem, a experiência do público também varia entre boa e muito boa.
 Além disso, a maioria do público entrevistado prefere fazer a inscrição pelo Enem utilizando o Aplicativo, ao invés do site. O que atualmente não é possível realizar, somente pelo site.
 Outro ponto importante também, é que a maioria dos usuários disseram que o aplicativo é bom, mas que precisa melhorar.
 
-## Requisitos Funcionais
+## 5. Requisitos Funcionais
 | ID | Requisitos | 
 |:--:|:--:|
 | QF 01 | O usuário deve ser capaz de visualizar o cronograma da prova | 
@@ -73,7 +73,7 @@ Outro ponto importante também, é que a maioria dos usuários disseram que o ap
 | QF 04 | O usuário deve ser capaz de visualizar/baixar/imprimir sua nota de provas do Enem | 
 | QF 05 | O usuário deve ser capaz de visualizar/baixar/imprimir as provas do Enem |
  
-## Requisitos Não-Funcionais
+## 6. Requisitos Não-Funcionais
 | ID | Requisitos | 
 |:--:|:--:|
 | QNF 01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | 
@@ -82,13 +82,13 @@ Outro ponto importante também, é que a maioria dos usuários disseram que o ap
 | QNF 04 | O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada |
 | QNF 05 | O aplicativo deve deve se adaptar bem a dispositivos mobile |
 
-## Histórico de versão
+## 7. Histórico de versão
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 1.0    | 19/02/2022 | Criação do documento | Eduardo Gurgel |
 | 1.1    | 20/02/2022 | Elaboração do documento | Eduardo Gurgel |
 | 1.2   | 21/02/2022 | Edição de detalhes do documento | Eduardo Gurgel |
 
-## Referências
+## 8. Referências
 
 BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - Computador. Rio de janeiro: Elsevier, 2010.
