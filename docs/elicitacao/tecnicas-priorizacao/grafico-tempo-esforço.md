@@ -1,4 +1,4 @@
-## Introdução
+## 1. Introdução
 
 A Matriz de Esforço X Impacto(tempo) é uma ferramenta para priorização de tarefas. Ela divide as atividades em 4 grupos, classificando-os de acordo com o impacto gerado e o esforço despendido em cada atividade.
 Na figura 01 temos a matriz é dividida em dois eixos, vertical e horizontal. O primeiro bloco, que trata do impacto, leva em conta fatores financeiros e satisfação do cliente. Já o segundo bloco, esforço, considera o tempo, energia, recursos humanos que serão empregados na tarefa.
@@ -17,11 +17,11 @@ Na figura 01 temos a matriz é dividida em dois eixos, vertical e horizontal. O 
   <figcaption class="center">Fonte: Matriz  Esforço x Impacto aplicada à técnica MoSCoW. Site campus. </figcaption>
 </center>
 
-## Bibliografia
+## 2. Bibliografia
 - Conheça a Matriz de Esforço x Impacto. Rockcontent. Disponível em: <https://rockcontent.com/br/blog/matriz-de-esforco-x-impacto/>. Acesso em: 15 de fevereiro de 2022
 - Como priorizar tarefas. Engloba Consultoria. Disponível em: <https://englobaconsultoria.com.br/2020/04/22/como-priorizar-tarefas-que-podem-auxiliar-seu-negocio-em-momentos-de-crise/>. Acesso: 14 de fevereiro de 2022
 
-## Histórico de versões
+## 3. Histórico de versões
 
 |  Versão  |     Data     |           Descrição           |      Autor      |
 |----------|--------------|--------------------------------|-----------------|

@@ -1,17 +1,12 @@
 # Planejamento da Sprint 2 - Cenários, Léxicos, Casos de Uso e Especificação complementar
 
-
-&nbsp;
 Período: De 21/02/2022 até 06/03/2022
 
-
-
-&nbsp;
-## Atividades
+## 1. Atividades
 |        Atividade                         | Responsáveis |
 | ---------------------------------------- | ------------ |
 
-## Histórico de versão
+## 2. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |

@@ -1,4 +1,4 @@
-## Metodologia
+## 1. Metodologia
 
 O objetivo desse documento é reunir todos os requistos que foram elicitados para o projeto a partir das técnicas. Na tabela foram identificados os metodos que originaram os requisitos, esses metodos são listados na coluna Técnica, e identificados por um código como demonstrado na Figura 1.
 
@@ -9,7 +9,7 @@ O objetivo desse documento é reunir todos os requistos que foram elicitados par
 </center>
 
 
-## Requisitos funcionais
+## 2. Requisitos funcionais
 
 |  ID  |  Requisito  |  Técnica  |   Priorização  |
 |------|-------------|-----------|----------------|
@@ -29,7 +29,7 @@ O objetivo desse documento é reunir todos os requistos que foram elicitados par
 | RF14 |  O usuário deve ser capaz de consultar escopo de conteúdo do exame  | SF  | COULD  |
 
 
-## Requisitos não funcionais
+## 3. Requisitos não funcionais
 
 |  ID  |  Requisito  |  Técnica  |   Priorização  |
 |------|-------------|-----------|----------------|
@@ -43,7 +43,7 @@ O objetivo desse documento é reunir todos os requistos que foram elicitados par
 | RNF08 |  O aplicativo deve deve se adaptar bem a dispositivos mobile | BF  | MUST  |
 | RNF10 |  O aplicativo deve possuir funcionalidades em modo offline | SF  | COULD  |
 
-## Versionamento
+## 4. Versionamento
 
 | Versão | Data | Descrição | Autor |
 |--------|------|-----------|-------|

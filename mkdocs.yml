@@ -20,49 +20,33 @@ extra_css:
 
 nav:
   - Início: index.md
+
   - Planejamento:
-      # Metodologia: planejamento/metodologia.md
       - Metodologia: planejamento/metodologia.md
-
-      # - Ferramentas: planejamento/ferramentas.md
       - Ferramentas: planejamento/ferramentas.md
-
-      # - Cronograma: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
 
   - Pré-rastreabilidade:
-      # Rich picture: planejamento/rich_picture.md
       - Rich Picture: pre-rastreabilidade/rich_picture.md
 
   - Elicitação:
       - Técnicas de Elicitação:
-
-          # - Brainstorming: elicitacao/brainstorming.md
           - Brainstorming: elicitacao/tecnicas-elicitacao/brainstorming.md
-
-          # - Entrevista: elicitacao/entrevista.md
           - Entrevista: elicitacao/tecnicas-elicitacao/entrevista.md
-
-          # - Instrospecção: elicitacao/instrospeccao.md
           - Instrospecção: elicitacao/tecnicas-elicitacao/instrospeccao.md
-
-          # - Observação: elicitacao/observacao.md
           - Observação: elicitacao/tecnicas-elicitacao/observacao.md
-
-          # - Questionário: elicitacao/questionario.md
           - Questionário: elicitacao/tecnicas-elicitacao/questionario.md
-
-          # - Storytelling: elicitacao/storytelling.md
           - Storytelling: elicitacao/tecnicas-elicitacao/storytelling.md
-
       - Técnicas de Priorização:
-          # - MoSCoW: elicitacao/tecnicas-priorizacao/MoSCoW.md
           - MoSCoW: elicitacao/tecnicas-priorizacao/MoSCoW.md
-
-          # - Gráfico Tempo X Esforço: elicitacao/tecnicas-priorizacao/grafico-tempo-esforço.md
           - Gráfico Tempo X Esforço: elicitacao/tecnicas-priorizacao/grafico-tempo-esforço.md
-
       - Resultado: elicitacao/resultado.md
+
+  - Modelagem:
+    - Casos de Uso: modelagem/casos-de-uso.md
+    - Cenários: modelagem/cenarios.md
+    - Especificação Suplementar: modelagem/especificacao-suplementar.md
+    - Léxicos: modelagem/lexicos.md
 
   - Sprints:
       - Sprint 1: sprints/sprint1.md
@@ -74,4 +58,5 @@ nav:
 
 plugins:
   - search
+  
 dev_addr: "0.0.0.0:8000"
