@@ -20,6 +20,7 @@ extra_css:
 
 nav:
   - Início: index.md
+
   - Planejamento:
       - Metodologia: planejamento/metodologia.md
       - Ferramentas: planejamento/ferramentas.md
@@ -57,4 +58,5 @@ nav:
 
 plugins:
   - search
+  
 dev_addr: "0.0.0.0:8000"

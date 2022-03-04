@@ -22,7 +22,7 @@
 
 </center>
 
-## 4. Cronograma de disponibilidade da equipe (Heatmap)
+## 3. Cronograma de disponibilidade da equipe (Heatmap)
 
 <div align="center">
   <img alt="size-badge" src="https://user-images.githubusercontent.com/51385738/152648004-e55bfca0-f0e8-4148-ac66-8cda2d19ef01.JPG"/>
@@ -32,7 +32,7 @@
   <figcaption>Autor: Jackes Fonseca</figcaption>
 </center>
 
-## 3. Histórico de versão
+## 4. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |

@@ -1,4 +1,4 @@
-## Ferramentas Utilizadas
+## 1. Ferramentas Utilizadas
 
 ||Ferramenta|Finalidade|
 |:-:|:-:|-|
@@ -10,7 +10,7 @@
 | ![Whatsapp](./img/whatsapp.png) | Whatsapp | Ferramenta para comunicação da equipe. |
 <h6 align = "center">Tabela : Tabela contendo as ferramentas utilizadas no projeto</h6>
 
-## 3. Histórico de versão
+## 2. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |

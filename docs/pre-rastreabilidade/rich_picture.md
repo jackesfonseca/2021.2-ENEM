@@ -1,28 +1,22 @@
-<h1 align="center">Rich Picture</h1>
+# Rich Picture
 
-## Introdução
+## 1. Introdução
 
 Rich Picture é um artefato que é construido a fim de ilustrar de forma visual um contexto(problema), para trazer uma compreensão melhor do problema a ser resolvido pela equipe seja de design e/ou desenvolvimento.
 
-## Versão 1.0
+## 2. Versão 1.0
 
 ![v0.0.1](img/rich_picture-v1.png)
 
-<br/>
-
-## Versão 1.1
+## 3. Versão 1.1
 
 <img src="https://user-images.githubusercontent.com/53023400/153007860-1c71be7f-2588-4e31-8752-8b3a75aca388.jpg"><br>
 
-<br/>
-
-## Bibliografia
+## 4. Bibliografia
 
 [Wiki rich_picture](https://en.wikipedia.org/wiki/Rich_picture)
 
-<br/>
-
-## Versionamento
+## 5. Versionamento
 
 | Versão | Data       | Modificação                       | Autor                          |
 | ------ | ---------- | --------------------------------- | ------------------------------ |
