@@ -1,4 +1,6 @@
 # Instrospecção
+
+## 1. Introdução
 Introspecção é uma técnica de elicitação de requisitos. A utilização desse método se baseia no individuo tentar imaginar e se colocar no lugar do usuário para identificar quais as necessidades do projeto.
 
 ## 2. Requisitos Funcionais

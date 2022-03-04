@@ -1,4 +1,6 @@
 # Brainstorming
+
+## 1. Introdução
 Brainstorming é uma técnica realizada em grupo que tem como objetivo reunir as mais diversas ideias para solucionar um problema. O fato dos membros terem várias experiências e expertises diferentes faz com que se crie um repositório de conhecimento criativo e diversificado podendo extrair ideias boas e inovadoras.
 
 Para o sucesso da técnica é importante que os membros fiquem bem a vontade e livre de críticas para expor suas ideias, pois todas terão sua importância. Vale ressaltar que a técnica funciona bem melhor quando os integrantes têm perspectivas diferentes acerca do tema.
@@ -9,7 +11,7 @@ Foi realizada uma reunião no dia 17/02/2022 com duração aproximada de 1 hora 
 ## 3. Requisitos Funcionais
 | ID | Requisitos | 
 |:--:|:--:|
-| BF 01 | O usuário deve ser capaz de fazer op login através do gov.br | 
+| BF 01 | O usuário deve ser capaz de fazer o login através do gov.br | 
 | BF 02 | O usuário deve ser capaz de visualizar o cronograma da prova | 
 | BF 03 | O usuário deve ser capaz de acompanhar sua inscrição | 
 | BF 04 | O usuário deve ser capaz de acompanhar pedido de isenção de taxa de inscrição  | 
