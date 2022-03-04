@@ -1,8 +1,8 @@
-## Introdução
+## 1. Introdução
 
 Após o processo de elicitação de requisitos, o time de de desenvolvimento do projeto possui uma lista com quais são as funcionalidades que o produto deve conter, neste momento é necessário que se tenha uma forma de decidir quais funcionalidades são mais importantes, que agregam mais valor para o produto, e portanto devem ser implementadas com maior prioridade, para que o time desenvolvedor possa realizar este processo de priorização são utilizadas as técnicas de priorização, nesta pagina trataremos da técnica MoSCoW.
 
-## Definição do método
+## 2. Definição do método
 
 MoSCoW é uma técnica de análise de de requisitos, que tem como objetivo de atribuir valores, como representado na Figura 1, que indicam qual a importância de cada funcionalidade, de acordo com o valor agregado a ela em relação ao produto final. Durante o processo de priorização, cada funcionalidade é avaliada com relação a sua importância e recebe uma atribuição que pode ser:
 
@@ -17,12 +17,12 @@ MoSCoW é uma técnica de análise de de requisitos, que tem como objetivo de at
   <figcaption class="center">Fonte: CRRUX, CrruxHQ</figcaption>
 </center>
 
-## Bibliografia
+## 3. Bibliografia
 
 - CRRUX, CrruxHQ. The MoSCoW method is a prioritization technique used in management, business analysis, project management, and software development. 17 out, 2019. Tweet.
 - VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; Engenharia de Requisitos: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016. 
 
-## Histórico de versão
+## 4. Histórico de versão
 
 | Versão | Data       | Descrição                       | Autor                |
 | ------ | ---------- | ------------------------------- | -------------------- |
