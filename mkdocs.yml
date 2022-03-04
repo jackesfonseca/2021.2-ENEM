@@ -64,6 +64,10 @@ nav:
 
       - Resultado: elicitacao/resultado.md
 
+  - Sprints:
+      - Sprint 1: sprints/sprint1.md
+      - Sprint 2: sprints/sprint2.md
+
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
