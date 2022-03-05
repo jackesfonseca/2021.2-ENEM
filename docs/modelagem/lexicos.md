@@ -1,86 +1,111 @@
-## Metodologia
+## 1. Introdução
 
-<p align="justify">Os léxicos foram elaborados com base no seguinte modelo:</p>
+Léxico é uma técnica que procura descrever os símbolos de uma linguagem. Buscar frases e símbolos do domínio da aplicação é o principal objetivo dos Engenheiros de Requisitos. Cada símbolo é descrito com noção e impacto, sendo noção o símbolo e o impacto a descrição do efeito do símbolo na aplicação ou do efeito de algo na aplicação sobre o símbolo.
 
-### Símbolo
-| Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
-| ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+Essas descrições seguem o princípio circular e o princípio do vocabulário mínimo. O princípio da circularidade torna cada extensão da descrição ou a conotação se refere a outros símbolos da linguagem. A parte não simbólica da descrição deve vir de um subconjunto reduzido de palavras com significado claro (vocabulário mínimo).
 
+Os léxicos foram divididos seguindo a tabela abaixo:
 
-### Léxico 01
-|Léxico 01 | L01|
-|----------|----|
-|Nome      | efetuar login   |
-|Noção     | libera acesso a algumas funcionalidades do aplicativo| 
-|Classificação| Verbo |
-|Impacto(s)| O usuário pode acessar sua conta e ter acesso a outras funcionalidades|
-|Sinônimo(s)| logar, acessar, entrar  |  
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Nome do Léxico| Símbolo     | Descrição do efeito  | Sinônimos             | Verbo/Objeto/Estado |
 
-### Léxico 02
-|Léxico 02 | L02|
-|----------|----|
-|Nome      | cronograma   |
-|Noção     | Lista as datas, horários e todas as etapas do processo seletivo| 
-|Classificação| Objeto |
-|Impacto(s)| O usuário pode acompanhar todos os acontecimentos da prova e receber notificações da cada um deles|
-|Sinônimo(s)| Horário  |  
+## 2. Léxicos
 
-### Léxico 03
-|Léxico 01 | L01|
-|----------|----|
-|Nome      | simulado   |
-|Noção     | simula a prova do Enem| 
-|Classificação| Objeto |
-|Impacto(s)| O estudante pode realizar questões similares a das provas anteriores|
-|Sinônimo(s)| treinar, exercícios  |  
+L01 - Acessar
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Acessar  | O usuário acessa a plataforma do ENEM   | O usuário pode acessar o ENEM pelo aplicativo mobile  | Entrar, conectar  | Verbo  |
 
-### Léxico 04
-|Léxico 04 | L04|
-|----------|----|
-|Nome      | Notícias   |
-|Noção     | Notícias do processo seletivo| 
-|Classificação| Objeto |
-|Impacto(s)| O estudante se mantém atualizado em relação ao andamento da prova|
-|Sinônimo(s)| Informação, Atualização  |  
+L02 - Visualizar
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Visualizar | O usuário visualiza seu desempenho no ENEM  | O usuário visualiza a nota do ENEM <br> O usuário visualiza análise pedagógica <br> O usuário visualiza o espelho da sua redação  | Ver, verificar | Verbo  |
 
-### Léxico 05
-|Léxico 05 | L05|
-|----------|----|
-|Nome      | Visualizar nota   |
-|Noção     | Notas dos anos em que realizou Enem| 
-|Classificação| Verbo |
-|Impacto(s)| O estudante pode visualizar o desempenho nos anos em que realizou a prova do Enem|
-|Sinônimo(s)| Ver nota, receber resultado  |  
+L03 - Baixar
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Baixar | O usuário baixa seu desempenho no ENEM  | O usuário baixa a nota do ENEM <br> O usuário baixa análise pedagógica <br> O usuário baixa o espelho da sua redação  | Obter | Verbo  |
 
-### Léxico 06
-|Léxico 06 | L06|
-|----------|----|
-|Nome      | Ganhar XP   |
-|Noção     | Ocorre quanto o usuário ganha pontos ao realizar um simulado| 
-|Classificação| Verbo |
-|Impacto(s)| o usuário recebe pontos ao acertar um número x de questões no simulado|
-|Sinônimo(s)| Ganhar pontos, vencer, passar de nível  |  
+L04 - Acompanhar
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Acompanhar  | O usuário acompanha a sua inscrição no ENEM   | O usuário pode acompanhar a sua incrição no ENEM  | Entrar, conectar  | Verbo  |
 
-### Léxico 07
-|Léxico 07 | L07|
-|----------|----|
-|Nome      | Pedido de isenção   |
-|Noção     | Ocorre quanto o usuário deseja visualizar o status do pedido de taxa de isenção| 
-|Classificação| estado |
-|Impacto(s)| O usuário pode visualizar a aprovação ou não do pedido de isenção realizado|
-|Sinônimo(s)| Verificar, Ver pedido  |  
+L05 - Login
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Login  | Entrar na conta   | O usuário pode pode fazer login pra acessar o conteudo na plataforma ENEM  | Entrar, acessar  | Verbo  |
 
-### Léxico 08
-|Léxico 08 | L08|
-|----------|----|
-|Nome      | Inscrição   |
-|Noção     | Ocorre quanto o usuário deseja visualizar o status da inscrição| 
-|Classificação| estado |
-|Impacto(s)| O usuário pode visualizar se a inscrição foi homologada ou não.|
-|Sinônimo(s)| Participação, Homologação  |  
+L06 - Logout
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Logout  | Sair da conta   | O usuário precisará fazer logout para siar de uma conta do ENEM  | Sair  | Verbo  |
+
+L07 - Notícias
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Novidades  | Aba que exibe notícias sobre o ENEM   | O usuário poderá conferir as últimas notícias a respeito do ENEM  | Notícias  | Objeto  |
+
+L08 - Informações
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Informações  | Aba que exibe informações sobre o ENEM   | O usuário poderá conferir as últimas notícias a respeito do ENEM  | Notícias  | Objeto  |
+
+L09 - Cronograma
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Cronograma  | Datas referentes ao ENEM   | O usuário poderá conferir as datas do ENEM  | Calendário  | Objeto  |
+
+L10 - Simulados
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Simulados  | Banco de questões   | O usuário poderá realizar simulados do ENEM  | Teste  | Objeto  |
+
+L11 - Respondida
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Respondida  | Questão marcada   | O usuário poderá marcar como respondida a questão do simulado  | Assinalada  | Estado  |
+
+L12 - Dúvida
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Dúvida  | Questão que não se tem certeza da resposta   | O usuário poderá marcar como dúvida uma questão que não se tem certeza da resposta  | Incerteza, indecisão  | Estado  |
+
+L13 - Procurar
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Procurar  | Buscar por uma função dentro do aplicativo   | O usuário poderá pesquisar alguma informação no aplicativo do ENEM | Buscar, explorar  | verbo  |
+
+L14 - Próxima
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Próxima  | Ir para a próxima página   | O usuário poderá ir para a próxima página enquanto resolve a simulado do ENEM | Regredir, avançar  | verbo  |
+
+L15 - Anterior
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Anterior  | Voltar para a página anterior   | O usuário poderá voltar para alguma página enquanto resolve a simulado do ENEM | Retroceder, regredir  | verbo  |
+
+L16 - Finalizar
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Próxima  | Terminar o simulado  | O usuário poderá finalizar o simulado do ENEM | Terminar, acabar  | verbo  |
+
+L17 - Ganhar
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Ganhar  | Ganhar XP | O usuário ganha pontos ao realizar um simulado | Receber, obter  | verbo  |
+
+L18 - Pedido
+| Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
+|--------------|--------------|----------------------|-----------------------|-----------------|
+| Pedido  | Pedido de isenção  | O usuário poderá solicitar o pedido de isenção na incrição do ENEM | Solicitação, requisição  | verbo  |
+ 
 
 ## Bibliografia
+
+1. Construção de léxicos de aplicação. USP. Disponível em: <http://www.nilc.icmc.usp.br/til/til2006/0030.pdf>. Acesso em 04 de marlo de 2022
 
 
 ## Histórico de versões
@@ -88,8 +113,8 @@
 |  Versão  |     Data     |           Descrição           |      Autor      |
 |----------|--------------|--------------------------------|-----------------|
 | 1.0      |  05/03/2022   |Criação do documento | Eduardo Gurgel |
-| 2.0      |  05/03/2022   |Adição da metodologia | Eduardo Gurgel |
-| 3.0      |  05/03/2022   |Adição dos Léxicos | Eduardo Gurgel |
+| 1.1      |  05/03/2022   |Adição da metodologia | Eduardo Gurgel, Jackes Fonseca |
+| 1.2      |  05/03/2022   |Adição dos Léxicos | Eduardo Gurgel, Jackes Fonseca |
 
 
 
