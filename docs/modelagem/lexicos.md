@@ -12,12 +12,12 @@ Os léxicos foram divididos seguindo a tabela abaixo:
 
 ## 2. Léxicos
 
-L01 - Acessar
+L01 - Acessar<br>
 | Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
 |--------------|--------------|----------------------|-----------------------|-----------------|
 | Acessar  | O usuário acessa a plataforma do ENEM   | O usuário pode acessar o ENEM pelo aplicativo mobile  | Entrar, conectar  | Verbo  |
 
-L02 - Visualizar
+L02 - Visualizar<br>
 | Léxico       | Noção        | Impacto              | Sinônimo              | Classificação   |
 |--------------|--------------|----------------------|-----------------------|-----------------|
 | Visualizar | O usuário visualiza seu desempenho no ENEM  | O usuário visualiza a nota do ENEM <br> O usuário visualiza análise pedagógica <br> O usuário visualiza o espelho da sua redação  | Ver, verificar | Verbo  |
