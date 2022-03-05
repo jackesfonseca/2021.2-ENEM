@@ -1,3 +1,13 @@
+## Metodologia
+
+<p align="justify">Os léxicos foram elaborados com base no seguinte modelo:</p>
+
+### Símbolo
+| Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
+| ---------- | --------- | ----------| ---------------- | ----------------      |
+|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+
+
 ### Léxico 01
 |Léxico 01 | L01|
 |----------|----|
