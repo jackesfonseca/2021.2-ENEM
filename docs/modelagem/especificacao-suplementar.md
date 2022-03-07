@@ -55,4 +55,4 @@ Os dispositivos deverão ter acesso a internet para acessar o aplicativo.
 |--|--|--|--|
 | 1.0 | 04/03/2022 | Criação da página | Pedro Henrique e Vitor Diniz |
 | 1.1 | 04/03/2022  | Elaboração do documento | Pedro Henrique e Vitor Diniz |
-| 1.1 | 04/03/2022  | Revisando e padronizando índice do documento | Pedro Henrique e Vitor Diniz |
+| 1.2 | 04/03/2022  | Revisando e padronizando índice do documento | Pedro Henrique e Vitor Diniz |
