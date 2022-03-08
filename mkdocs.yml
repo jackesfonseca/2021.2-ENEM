@@ -47,6 +47,8 @@ nav:
     - Cenários: modelagem/cenarios.md
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
     - Léxicos: modelagem/lexicos.md
+    - Ágil: 
+      - Backlog: modelagem/agil/backlog.md
 
   - Sprints:
       - Sprint 1: sprints/sprint1.md
