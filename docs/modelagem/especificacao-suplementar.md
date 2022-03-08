@@ -3,7 +3,7 @@
 ## 1. Introdução
 A especificação suplementar é um documento com o objetivo de explicitar os requisitos do aplicativo, tendo em vista os requisitos de usabilidade, confiabilidade, suportatibilidade e desempenho, além de outros requisitos, como: sistemas operacionais e ambientes, requisitos de compatibilidade e restrições de design.
 
-## 1.1 Finalidade
+### 1.1 Finalidade
 A finalidade é  especificar os requisitos não-funcionais do aplicativo ENEM, descrevendo seu comportamento a partir do modelo de casos de usos e com isso capturando um conjunto completo de requisitos do sistema.
 
 ## 2. Escopo
@@ -21,7 +21,7 @@ Com o aplicativo Enem, é possível ver notícias sobre o exame, conferir inform
 | RNF06 |  O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo | BF, IF  | MUST  |
 | RNF07 |  O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada | BF, QF, SF  | SHOULD |
 | RNF08 |  O aplicativo deve deve se adaptar bem a dispositivos mobile | BF  | MUST  |
-| RNF10 |  O aplicativo deve possuir funcionalidades em modo offline | SF  | COULD  |
+| RNF09 |  O aplicativo deve possuir funcionalidades em modo offline | SF  | COULD  |
 
 
 ### 3.1 Usabilidade
@@ -55,3 +55,4 @@ Os dispositivos deverão ter acesso a internet para acessar o aplicativo.
 |--|--|--|--|
 | 1.0 | 04/03/2022 | Criação da página | Pedro Henrique e Vitor Diniz |
 | 1.1 | 04/03/2022  | Elaboração do documento | Pedro Henrique e Vitor Diniz |
+| 1.2 | 04/03/2022  | Revisando e padronizando índice do documento | Pedro Henrique e Vitor Diniz |
