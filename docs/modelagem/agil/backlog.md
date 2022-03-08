@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O Backlog é uma coleção de funcionalidades desejáveis para o produto, definidas pelo Product Owner. Ele é construído incrementalmente, ou seja, não precisa estar pronto no início do projeto. Este é o documento que é alterado e evoluído de acordo com a necessidade do projeto, podendo iniciar com um conteúdo mais geral sendo agregado conforme se obtém mais conhecimento acerca do produto.
+O Backlog é uma coleção de funcionalidades desejáveis para o produto, definidas pelo Product Owner. Ele é construído incrementalmente, ou seja, não precisa estar pronto no início do projeto. Este documento é alterado e evoluído de acordo com a necessidade do projeto, podendo iniciar com um conteúdo mais geral sendo agregado conforme se obtém mais conhecimento acerca do produto.
 
 O Backlog tem como objetivo detalhar as tarefas de forma que as histórias de usuários sejam mais facilmente entregáveis, além de prover uma noção do tempo tomado para cada história e ele também é escalável conforme se conhece melhor o produto e o usuário e trazer o melhor valor possível para o cliente.
 
@@ -19,7 +19,7 @@ Em Agile, uma história de usuário é uma descrição curta, informal e em ling
 
 ### EP01: Acesso ao aplicativo
 
-|  ID  |  Feature  |  História  |   Priorização  |
+|  ID  |  Feature  |  História de Usuário  |   Priorização  |
 |------|-------------|-----------|----------------|
 | US01 |  Cadastro | Eu, como usuário, gostaria de realizar cadastro no sistema  | MUST |
 | US02 |  Login | Eu, como usuário, gostaria de realizar login no sistema | MUST |
@@ -28,7 +28,7 @@ Em Agile, uma história de usuário é uma descrição curta, informal e em ling
 
 ### EP02: Área do usuário
 
-|  ID  |  Feature  |  História  |   Priorização  |
+|  ID  |  Feature  |  História de Usuário  |   Priorização  |
 |------|-------------|-----------|----------------|
 | US05 |  Consultas de cronograma | Eu, como usuário, gostaria de visualizar o cronograma da prova  | SHOULD |
 | US06 |  Consultas de inscrição | Eu, como usuário, gostaria de acompanhar minha inscrição | MUST |
@@ -54,3 +54,4 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.
 |--|--|--|--|
 | 1.0 | 08/03/2022 | Criação da página | Pedro Henrique e Vitor Diniz |
 | 1.1 | 08/03/2022  | Elaboração do documento | Pedro Henrique e Vitor Diniz |
+| 1.2 | 08/03/2022  | Corrigindo ortografio e padronizando documento | Pedro Henrique e Vitor Diniz |
