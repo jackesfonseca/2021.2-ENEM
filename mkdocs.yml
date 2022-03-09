@@ -49,6 +49,7 @@ nav:
     - Léxicos: modelagem/lexicos.md
     - Ágil: 
       - Backlog: modelagem/agil/backlog.md
+    - NRF Framework: modelagem/nfrframework.md
 
   - Sprints:
       - Sprint 1: sprints/sprint1.md
