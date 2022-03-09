@@ -32,7 +32,7 @@ Em Agile, uma história de usuário é uma descrição curta, informal e em ling
 | US04 | Consulta de isenção de taxas | Eu, como usuário, gostaria de acompanhar meu pedido de isenção de taxa de inscrição | SHOULD      |
 | US05 | Avisos e notícias            | Eu, como usuário, gostaria de ter acesso aos avisos e às notícias                   | COULD       |
 | US06 | Avisos e notícias            | Eu, como usuário, gostaria de verificar as perguntas frequentes e as orientações    | SHOULD      |
-| US07 | Consultas de prova           | Eu, como usuário, gostaria de consultar minha nota da provas do ENEM                | MUST        |
+| US07 | Consultas de prova           | Eu, como usuário, gostaria de consultar minha nota da prova do ENEM                | MUST        |
 | US08 | Consultas de prova           | Eu, como usuário, gostaria de consultar minha vista pedagógica da provas do ENEM    | MUST        |
 | US09 | Consultas de prova           | Eu, como usuário, gostaria de consultar minha redação das provas do ENEM            | MUST        |
 | US10 | Consultas de prova           | Eu, como usuário, gostaria de consultar meu gabarito das provas do ENEM             | SHOULD      |

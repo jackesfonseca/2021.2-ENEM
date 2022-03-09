@@ -1,10 +1,11 @@
 # US09
 
-## Eu, como usuário, gostaria de consultar minha vista pedagógica da provas do ENEM
+## Eu, como usuário, gostaria de consultar minha redação das provas do ENEM
 
-| Critério de aceitação                                           | Exemplo                                             |
-| --------------------------------------------------------------- | --------------------------------------------------- |
-| As competências devem ser listadas juntamente com a nota obtida | - Competência 1: Aluno obteve nota 160: **Correto** |
+| Critério de aceitação                                           | Exemplo                                                                                      |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| A página deve conter todos os erros cometidos na redação        | - A página mostra somente a nota final da redação: **Errado**                                |
+| A página deve mostrar quantos pontos foram descontados por erro | - A página mostra uma lista de erros e seus respectivos descontos na nota final: **Correto** |
 
 # Versionamento
 
