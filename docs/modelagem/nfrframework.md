@@ -31,10 +31,24 @@ determinado sistema (CHUNG et al., 2000).
 <figcaption> Figura 02 - Legendas Interdependecy </a></figcaption>
 </center>
 
-## 5. Diagrama
+## 5. Requisitos não funcionais
+
+|  ID  |  Requisito  |  Técnica  |   Priorização  |
+|------|-------------|-----------|----------------|
+| RNF01 |  O aplicativo deve ter compatibilidade com qualquer sistema operacional | BF, IF  | MUST  |
+| RNF02 |  O aplicativo deve recusar o acesso de pessoas não autorizadas | BF, IF  | MUST  |
+| RNF03 |  O aplicativo deve proteger os dados dos usuários | BF, IF, QF  | MUST  |
+| RNF04 |  O aplicativo deve ser acessível para Pessoas com Deficiência (PcD) | BF, IF, QF  | MUST  |
+| RNF05 |  O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos | BF, EF, IF, OF, QF  | MUST  |
+| RNF06 |  O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo | BF, IF  | MUST  |
+| RNF07 |  O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada | BF, QF, SF  | SHOULD |
+| RNF08 |  O aplicativo deve deve se adaptar bem a dispositivos mobile | BF  | MUST  |
+| RNF10 |  O aplicativo deve possuir funcionalidades em modo offline | SF  | COULD  |
+
+## 6. Diagrama
 
 
-### 5.1 Diagrama Geral
+### 6.1 Diagrama Geral
 ![d6fb560a-e935-4ce4-978f-54be91dc74b0](https://user-images.githubusercontent.com/51385738/157480586-4cc967b2-b590-4bad-aa67-fce60032c483.jpg)
 <center>
 <figcaption> Figura 03 - NFR Framework Geral </figcaption>
@@ -42,15 +56,15 @@ determinado sistema (CHUNG et al., 2000).
 
 
 
-## 6. Bibliografia
+## 7. Bibliografia
 [1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. Disponível aqui. Acessado em 09/03/22.
 
 [2] DA SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Pernambuco, Recife, 2019.
 
 
-## 7. Histórico de versão
+## 8. Histórico de versão
 | Versão | Data | Descrição | Autor |
 | :--: | :--: | :--: | :--: |
 | 1.0 | 09/03 | Criação do documento | Eduardo Gurgel |
-| 2.0 | 09/03 | Adição do documento de usabilidade | Jackes Fonseca |
+| 2.0 | 09/03 | Adição do documento de usabilidade | Eduardo Gurgel, Jackes Fonseca |
 
