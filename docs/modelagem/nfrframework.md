@@ -48,13 +48,17 @@ determinado sistema (CHUNG et al., 2000).
 ## 6. Diagrama
 
 
-### 6.1 Diagrama Geral
-![d6fb560a-e935-4ce4-978f-54be91dc74b0](https://user-images.githubusercontent.com/51385738/157480586-4cc967b2-b590-4bad-aa67-fce60032c483.jpg)
+### 6.1 Diagrama Geral sem propagação
+![NFR_semPropagacao](https://user-images.githubusercontent.com/53023400/157520738-48cdb14e-9fb7-4a80-9fd5-e288c546089a.jpg)
 <center>
 <figcaption> Figura 03 - NFR Framework Geral </figcaption>
 </center>
 
-
+### 6.2 Siagrama Geral com propagação
+![NFR_comPropagacao](https://user-images.githubusercontent.com/53023400/157521127-c901b744-d8e8-4aa7-8c8b-1d4d34d0a1e3.jpg)
+<center>
+<figcaption> Figura 03 - NFR Framework Geral </figcaption>
+</center>
 
 ## 7. Bibliografia
 [1] CHUNG, L.; NIXON, B. A.; YU, E.; MYLOPOULOS, J. Non-functional requirements in software engineering. Springer Science & Business Media: [s.n.], 2000. v. 5. Disponível aqui. Acessado em 09/03/22.
