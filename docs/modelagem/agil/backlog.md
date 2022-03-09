@@ -22,27 +22,25 @@ Em Agile, uma história de usuário é uma descrição curta, informal e em ling
 |  ID  |  Feature  |  História de Usuário  |   Priorização  |
 |------|-------------|-----------|----------------|
 | US01 |  Cadastro | Eu, como usuário, gostaria de realizar cadastro no sistema  | MUST |
-| US02 |  Login | Eu, como usuário, gostaria de realizar login no sistema | MUST |
-| US03 |  Login | Eu, como usuário, gostaria de recuperar a minha chave de acesso  | MUST |
-| US04 |  Login | Eu, como usuário, gostaria de deslogar da minha conta  | MUST |
+| US02 |  Login | Eu, como usuário, gostaria de deslogar da minha conta  | MUST |
 
 ### EP02: Área do usuário
 
 |  ID  |  Feature  |  História de Usuário  |   Priorização  |
 |------|-------------|-----------|----------------|
-| US05 |  Consultas de cronograma | Eu, como usuário, gostaria de visualizar o cronograma da prova  | SHOULD |
-| US06 |  Consultas de inscrição | Eu, como usuário, gostaria de acompanhar minha inscrição | MUST |
-| US07 |  Consulta de isenção de taxas | Eu, como usuário, gostaria de acompanhar meu pedido de isenção de taxa de inscrição  | SHOULD |
-| US08 |  Avisos e notícias | Eu, como usuário, gostaria de ter acesso aos avisos e às notícias  | COULD |
-| US09 |  Avisos e notícias | Eu, como usuário, gostaria de ter verificar as perguntas frequentes e as orientações  | SHOULD |
-| US10 |  Consultas de prova | Eu, como usuário, gostaria de acessar/visualizar/baixar/imprimir minha nota da provas do ENEM  | MUST |
-| US11 |  Consultas de prova | Eu, como usuário, gostaria de acessar/visualizar/baixar/imprimir minha vista pedagógica da provas do ENEM  | MUST |
-| US12 |  Consultas de prova | Eu, como usuário, gostaria de acessar/visualizar/baixar/imprimir minha redação das provas do ENEM  | MUST |
-| US13 |  Consultas de prova | Eu, como usuário, gostaria de acessar/visualizar/baixar/imprimir meu gabarito das provas do ENEM  | SHOULD |
-| US14 |  Consultas de prova | Eu, como usuário, gostaria de acessar/visualizar/baixar/imprimir as provas do ENEM  | COULD |
-| US15 |  Consultas de prova | Eu, como usuário, gostaria de acessar/visualizar/baixar/imprimir simulados do ENEM  | WOULD |
-| US16 |  Consultas de dados | Eu, como usuário, gostaria de visualizar métricas de desempenho dos participantes  | WOULD |
-| US17 |  Consultas de dados | Eu, como usuário, gostaria de consultar escopo de conteúdo do exame  | COULD |
+| US03 |  Consultas de cronograma | Eu, como usuário, gostaria de visualizar o cronograma da prova  | SHOULD |
+| US04 |  Consultas de inscrição | Eu, como usuário, gostaria de acompanhar minha inscrição | MUST |
+| US05 |  Consulta de isenção de taxas | Eu, como usuário, gostaria de acompanhar meu pedido de isenção de taxa de inscrição  | SHOULD |
+| US06 |  Avisos e notícias | Eu, como usuário, gostaria de ter acesso aos avisos e às notícias  | COULD |
+| US07 |  Avisos e notícias | Eu, como usuário, gostaria de verificar as perguntas frequentes e as orientações  | SHOULD |
+| US08 |  Consultas de prova | Eu, como usuário, gostaria de consultar minha nota da provas do ENEM  | MUST |
+| US09 |  Consultas de prova | Eu, como usuário, gostaria de consultar minha vista pedagógica da provas do ENEM  | MUST |
+| US10 |  Consultas de prova | Eu, como usuário, gostaria de consultar minha redação das provas do ENEM  | MUST |
+| US11 |  Consultas de prova | Eu, como usuário, gostaria de consultar meu gabarito das provas do ENEM  | SHOULD |
+| US12 |  Consultas de prova | Eu, como usuário, gostaria de consultar as provas do ENEM  | COULD |
+| US13 |  Consultas de prova | Eu, como usuário, gostaria de consultar simulados do ENEM  | WOULD |
+| US14 |  Consultas de dados | Eu, como usuário, gostaria de visualizar métricas de desempenho dos participantes  | WOULD |
+| US15 |  Consultas de dados | Eu, como usuário, gostaria de consultar escopo de conteúdo do exame  | COULD |
 
 ## 4. Bibliografia
 
@@ -55,3 +53,4 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.
 | 1.0 | 08/03/2022 | Criação da página | Pedro Henrique e Vitor Diniz |
 | 1.1 | 08/03/2022  | Elaboração do documento | Pedro Henrique e Vitor Diniz |
 | 1.2 | 08/03/2022  | Corrigindo ortografio e padronizando documento | Pedro Henrique e Vitor Diniz |
+| 1.3 | 08/03/2022  | Removendo histórias fora do escopo do aplicativo | Pedro Henrique e Vitor Diniz |
