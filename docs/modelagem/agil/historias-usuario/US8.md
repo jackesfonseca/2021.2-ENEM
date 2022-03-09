@@ -1,7 +1,7 @@
 # US08
 
-## Eu, como usuário, gostaria de ter acesso aos avisos e às notícias
+## Eu, como usuário, gostaria de consultar minha nota da provas do ENEM
 
 | Critério de aceitação                                 | Exemplo |
 | ----------------------------------------------------- | ------- |
-| As notícias devem estar ordenadas pelas mais recentes |         |
+| A página deve conter a média dos estudantes em cada área de conhecimento |   - A nota final não está acompanhada da média dos estudantes naquela área de conhecimento: **Errado** |
