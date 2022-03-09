@@ -25,6 +25,7 @@ Período: De 17/02/2022 até 20/02/2022
 | Gráfico Tempo X Esforço | Sim |
 | Resultado | Sim |
 | Edição do vídeo da apresentação | Sim |
+
 ## 3. Histórico de versão
 
 | Versão | Data       | Descrição                                           | Autor        |
