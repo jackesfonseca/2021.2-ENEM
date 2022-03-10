@@ -1,6 +1,6 @@
 # US08
 
-## Eu, como usuário, gostaria de consultar minha vista pedagógica da provas do ENEM
+### Eu, como usuário, gostaria de consultar minha vista pedagógica da provas do ENEM
 
 | Critério de aceitação                                           | Exemplo                                             |
 | --------------------------------------------------------------- | --------------------------------------------------- |
