@@ -54,7 +54,7 @@ determinado sistema (CHUNG et al., 2000).
 <figcaption> Figura 03 - NFR Framework Geral sem propagação </figcaption>
 </center>
 
-### 6.2 Siagrama Geral com propagação
+### 6.2 Diagrama Geral com propagação
 ![NFR_comPropagacao](https://user-images.githubusercontent.com/53023400/157521127-c901b744-d8e8-4aa7-8c8b-1d4d34d0a1e3.jpg)
 <center>
 <figcaption> Figura 04 - NFR Framework Geral com propagação </figcaption>
