@@ -8,12 +8,11 @@ O objetivo desse documento é reunir todos os requistos que foram elicitados par
   <figcaption class="center">Fonte: autoria própria</figcaption>
 </center>
 
-
 ## 2. Requisitos funcionais
 
 |  ID  |  Requisito  |  Técnica  |   Priorização  |
 |------|-------------|-----------|----------------|
-| RF01 |  O usuário deve ser capaz de fazer o login através do gov.br | <a href="tecnicas-elicitacao#braimstorming">BF</a>, IF, OF  | MUST  |
+| RF01 |  O usuário deve ser capaz de fazer o login através do gov.br | [BF](tecnicas-elicitacao/brainstorming.md), IF, OF  | MUST  |
 | RF02 |  O usuário deve ser capaz de visualizar o cronograma da prova | BF, IF, OF, SF, QF  | SHOULD  |
 | RF03 |  O usuário deve ser capaz de acompanhar sua inscrição | BF, IF, OF, QF  | MUST  |
 | RF04 |  O usuário deve ser capaz de acompanhar pedido de isenção de taxa de inscrição| BF, IF, QF  | SHOULD  |
