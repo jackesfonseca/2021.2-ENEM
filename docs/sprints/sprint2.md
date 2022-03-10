@@ -25,4 +25,4 @@ Período: De 21/02/2022 até 06/03/2022
 | Versão | Data       | Descrição                     | Autor   |
 | ------ | ---------- | ----------------------------- | ------- |
 | 1.0    | 08/03/2022 | Criação do documento          | Antonio |
-| 2.0    | 10/03/2022 | Adicionando tarefas cumpridas | Carlos  |
+| 1.1    | 10/03/2022 | Adicionando tarefas cumpridas | Carlos  |
