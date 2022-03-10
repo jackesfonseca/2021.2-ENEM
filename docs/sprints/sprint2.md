@@ -3,24 +3,26 @@
 Período: De 21/02/2022 até 06/03/2022
 
 ## 1. Atividades
-|        Atividade                         | Responsáveis |
-| ---------------------------------------- | ------------ |
-| Histórias de usuário | Antonio e Carlos |
-| Backlog | Vitor e Pedro |
-| NFR Framework | Jackes e Eduardo |
-| Edição do vídeo da apresentação | Eduardo |
 
+| Atividade                       | Responsáveis     |
+| ------------------------------- | ---------------- |
+| Histórias de usuário            | Antonio e Carlos |
+| Backlog                         | Vitor e Pedro    |
+| NFR Framework                   | Jackes e Eduardo |
+| Edição do vídeo da apresentação | Eduardo          |
 
 ## 2. Resultados
-|        Atividade                          | A tarefa foi cumprida? |
-| ----------------------------------------  | ---------------------- |
-| Histórias de usuário | Sim |
-| Backlog | Sim |
-| NFR Framework | |
-|Edição do vídeo da apresentação |  |
+
+| Atividade                       | A tarefa foi cumprida? |
+| ------------------------------- | ---------------------- |
+| Histórias de usuário            | Sim                    |
+| Backlog                         | Sim                    |
+| NFR Framework                   | Sim                    |
+| Edição do vídeo da apresentação | Sim                    |
 
 ## 3. Histórico de versão
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 1.0    | 08/03/2022 | Criação do documento | Antonio       |
+| Versão | Data       | Descrição                     | Autor   |
+| ------ | ---------- | ----------------------------- | ------- |
+| 1.0    | 08/03/2022 | Criação do documento          | Antonio |
+| 2.0    | 10/03/2022 | Adicionando tarefas cumpridas | Carlos  |
