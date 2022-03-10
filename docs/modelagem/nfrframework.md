@@ -35,20 +35,15 @@ determinado sistema (CHUNG et al., 2000).
 
 |  ID  |  Requisito  |  Técnica  |   Priorização  |
 |------|-------------|-----------|----------------|
-| RF01 |  O usuário deve ser capaz de fazer o login através do gov.br | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [OF](../elicitacao/tecnicas-elicitacao/observacao.md)  | MUST  |
-| RF02 |  O usuário deve ser capaz de visualizar o cronograma da prova | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [OF](../elicitacao/tecnicas-elicitacao/observacao.md), [SF](../elicitacao/tecnicas-elicitacao/storyboard.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | SHOULD  |
-| RF03 |  O usuário deve ser capaz de acompanhar sua inscrição | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [OF](../elicitacao/tecnicas-elicitacao/observacao.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | MUST  |
-| RF04 |  O usuário deve ser capaz de acompanhar pedido de isenção de taxa de inscrição| [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | SHOULD  |
-| RF05 |  O usuário deve ser capaz de ter acesso aos avisos e às notícias | [BF](elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../tecnicas-elicitacao/introspeccao.md), [OF](../elicitacao/tecnicas-elicitacao/observacao.md)  | COULD  |
-| RF06 |  O usuário deve ser capaz de verificar as perguntas frequentes e as orientações | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md) |  SHOULD |
-| RF07 |  O usuário deve ser capaz de visualizar/baixar/imprimir sua nota de provas do Enem | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [EF](../elicitacao/tecnicas-elicitacao/entrevista.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [OF](../elicitacao/tecnicas-elicitacao/observacao.md), [SF](../elicitacao/tecnicas-elicitacao/storyboard.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | MUST  |
-| RF08 |  O usuário deve ser capaz de visualizar/baixar/imprimir sua vista pedagógica das provas do Enem | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md)  | MUST  |
-| RF09 |  O usuário deve ser capaz de visualizar/baixar/imprimir sua redação das provas do Enem | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | MUST  |
-| RF10 |  O usuário deve ser capaz de visualizar/baixar/imprimir seu gabarito das provas do Enem | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | SHOULD  |
-| RF11 |  O usuário deve ser capaz de visualizar/baixar/imprimir as provas do Enem | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [SF](../elicitacao/tecnicas-elicitacao/storyboard.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | COULD  |
-| RF12 |  O usuário deve ser capaz de visualizar/baixar/imprimir simulados do Enem | [SF](../elicitacao/tecnicas-elicitacao/storyboard.md)  | WOULD  |
-| RF13 |  O usuário deve ser capaz de visualizar métricas de desempenho dos participantes  | [SF](../elicitacao/tecnicas-elicitacao/storyboard.md)  | WOULD  |
-| RF14 |  O usuário deve ser capaz de consultar escopo de conteúdo do exame  | [SF](../elicitacao/tecnicas-elicitacao/storyboard.md)  | COULD  |
+| RNF01 |  O aplicativo deve ter compatibilidade com qualquer sistema operacional | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md)  | MUST  |
+| RNF02 |  O aplicativo deve recusar o acesso de pessoas não autorizadas | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md)  | MUST  |
+| RNF03 |  O aplicativo deve proteger os dados dos usuários | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | MUST  |
+| RNF04 |  O aplicativo deve ser acessível para Pessoas com Deficiência (PcD) | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | MUST  |
+| RNF05 |  O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [EF](tecnicas-elicitacao/entrevista.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [OF](../elicitacao/tecnicas-elicitacao/observacao.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)  | MUST  |
+| RNF06 |  O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md)  | MUST  |
+| RNF07 |  O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md), [SF](../elicitacao/tecnicas-elicitacao/storyboard.md)  | SHOULD |
+| RNF08 |  O aplicativo deve deve se adaptar bem a dispositivos mobile | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md)  | MUST  |
+| RNF10 |  O aplicativo deve possuir funcionalidades em modo offline | [SF](../elicitacao/tecnicas-elicitacao/storyboard.md)  | COULD  |
 
 ## 6. Diagrama
 
