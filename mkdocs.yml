@@ -43,28 +43,28 @@ nav:
       - Resultado: elicitacao/resultado.md
 
   - Modelagem:
-    - Casos de Uso: modelagem/casos-de-uso.md
-    - Cenários: modelagem/cenarios.md
-    - Especificação Suplementar: modelagem/especificacao-suplementar.md
-    - Léxicos: modelagem/lexicos.md
-    - Ágil: 
-      - Backlog: modelagem/agil/backlog.md
-      - Historias de Usuário: 
-        - US01 : modelagem/agil/historias-usuario/US1.md
-        - US02 : modelagem/agil/historias-usuario/US2.md
-        - US03 : modelagem/agil/historias-usuario/US3.md
-        - US04 : modelagem/agil/historias-usuario/US4.md
-        - US05 : modelagem/agil/historias-usuario/US5.md
-        - US06 : modelagem/agil/historias-usuario/US6.md
-        - US07 : modelagem/agil/historias-usuario/US7.md
-        - US08 : modelagem/agil/historias-usuario/US8.md
-        - US09 : modelagem/agil/historias-usuario/US9.md
-        - US10 : modelagem/agil/historias-usuario/US10.md
-        - US11 : modelagem/agil/historias-usuario/US11.md
-        - US12 : modelagem/agil/historias-usuario/US12.md
-        - US13 : modelagem/agil/historias-usuario/US13.md
-        - US14 : modelagem/agil/historias-usuario/US14.md
-    - NRF Framework: modelagem/nfrframework.md
+      - Casos de Uso: modelagem/casos-de-uso.md
+      - Cenários: modelagem/cenarios.md
+      - Especificação Suplementar: modelagem/especificacao-suplementar.md
+      - Léxicos: modelagem/lexicos.md
+      - Ágil:
+          - Backlog: modelagem/agil/backlog.md
+          - Historias de Usuário:
+              - US01: modelagem/agil/historias-usuario/US1.md
+              - US02: modelagem/agil/historias-usuario/US2.md
+              - US03: modelagem/agil/historias-usuario/US3.md
+              - US04: modelagem/agil/historias-usuario/US4.md
+              - US05: modelagem/agil/historias-usuario/US5.md
+              - US06: modelagem/agil/historias-usuario/US6.md
+              - US07: modelagem/agil/historias-usuario/US7.md
+              - US08: modelagem/agil/historias-usuario/US8.md
+              - US09: modelagem/agil/historias-usuario/US9.md
+              - US10: modelagem/agil/historias-usuario/US10.md
+              - US11: modelagem/agil/historias-usuario/US11.md
+              - US12: modelagem/agil/historias-usuario/US12.md
+              - US13: modelagem/agil/historias-usuario/US13.md
+              - US14: modelagem/agil/historias-usuario/US14.md
+      - NRF Framework: modelagem/nfrframework.md
 
   - Sprints:
       - Sprint 1: sprints/sprint1.md
@@ -78,5 +78,5 @@ nav:
 
 plugins:
   - search
-  
+
 dev_addr: "0.0.0.0:8000"

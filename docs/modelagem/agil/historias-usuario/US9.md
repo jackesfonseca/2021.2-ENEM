@@ -1,6 +1,6 @@
 # US09
 
-## Eu, como usuário, gostaria de consultar minha redação das provas do ENEM
+### Eu, como usuário, gostaria de consultar minha redação das provas do ENEM
 
 | Critério de aceitação                                           | Exemplo                                                                                      |
 | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |

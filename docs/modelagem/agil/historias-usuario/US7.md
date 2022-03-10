@@ -1,6 +1,6 @@
 # US07
 
-## Eu, como usuário, gostaria de consultar minha nota da prova do ENEM
+### Eu, como usuário, gostaria de consultar minha nota da prova do ENEM
 
 | Critério de aceitação                                   | Exemplo                                                                   |
 | ------------------------------------------------------- | ------------------------------------------------------------------------- |
