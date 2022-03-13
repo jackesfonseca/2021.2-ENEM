@@ -47,7 +47,7 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.
 
 ## 5. Versionamento
 
-| Versão | Data       | Modificação                                      | Autor                        |
+| Versão | Data       | Descrição                                        | Autor                        |
 | ------ | ---------- | ------------------------------------------------ | ---------------------------- |
 | 1.0    | 08/03/2022 | Criação da página                                | Pedro Henrique e Vitor Diniz |
 | 1.1    | 08/03/2022 | Elaboração do documento                          | Pedro Henrique e Vitor Diniz |
