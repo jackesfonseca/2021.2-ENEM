@@ -6,9 +6,9 @@ Período: De 21/02/2022 até 06/03/2022
 
 | Atividade                       | Responsáveis     |
 | ------------------------------- | ---------------- |
-| Histórias de usuário            | Antonio e Carlos |
-| Backlog                         | Vitor e Pedro    |
-| NFR Framework                   | Jackes e Eduardo |
+| Cenários e Casos de uso         | Antonio e Carlos |
+| Especificação Suplementar       | Vitor e Pedro    |
+| Léxicos                         | Jackes e Eduardo |
 | Edição do vídeo da apresentação | Eduardo          |
 
 ## 2. Resultados
@@ -22,7 +22,8 @@ Período: De 21/02/2022 até 06/03/2022
 
 ## 3. Histórico de versão
 
-| Versão | Data       | Descrição                     | Autor   |
-| ------ | ---------- | ----------------------------- | ------- |
-| 1.0    | 08/03/2022 | Criação do documento          | Antonio |
-| 1.1    | 10/03/2022 | Adicionando tarefas cumpridas | Carlos  |
+| Versão | Data       | Descrição                                 | Autor   |
+| ------ | ---------- | ----------------------------------------- | ------- |
+| 1.0    | 08/03/2022 | Criação do documento                      | Antonio |
+| 1.1    | 10/03/2022 | Adicionando tarefas cumpridas             | Carlos  |
+| 1.2    | 13/03/2022 | Corrigindo as atividades da sprint, que antes mostravam atividades da sprint 3 | Antonio |
