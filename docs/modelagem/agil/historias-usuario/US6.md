@@ -1,11 +1,11 @@
 # US06
 
-### Eu, como usuário, gostaria de verificar as perguntas frequentes e as orientações
+### Eu, como usuário, gostaria de ter acesso aos avisos e às notícias
 
-| Critério de aceitação                                            | Exemplo                                                                      |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Devem estar ordenadas por ordem de prioridade (mais recorrentes) | O usuário deseja encontrar a solução para sua dúvida de forma mais otimizada |
-| Devem mostrar apenas perguntas frequentes                        | O usuário deseja ver apenas perguntas frequentes da versão em contexto       |
+| Critério de aceitação                                                                                 | Exemplo                                                                 |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Os avisos e notícias deverão estar ordenados pela **data de publicação (Mais recente/Menos recente)** | O usuário deseja se manter atualizado sobre informações do enem         |
+| Os avisos devem ter **filtros por categoria**                                                         | O usuário deseja ver apenas avisos da categoria de ciência e tecnologia |
 
 # Versionamento
 

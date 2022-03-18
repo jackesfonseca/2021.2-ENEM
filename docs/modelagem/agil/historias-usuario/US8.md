@@ -1,10 +1,11 @@
 # US08
 
-### Eu, como usuário, gostaria de consultar minha vista pedagógica da provas do ENEM
+### Eu, como usuário, gostaria de consultar minha nota da prova do ENEM
 
-| Critério de aceitação                                           | Exemplo                                             |
-| --------------------------------------------------------------- | --------------------------------------------------- |
-| As competências devem ser listadas juntamente com a nota obtida | - Competência 1: Aluno obteve nota 160: **Correto** |
+| Critério de aceitação                                   | Exemplo                                                                   |
+| ------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Deve conter todas os **resultados anteriores do exame** | O usuário deseja ver resultados anteriores para acompanhar seu desempenho |
+| As notas devem estar divididas em áreas de conhecimento | O usuário deseja saber onde deve melhorar para os próximos exames         |
 
 # Versionamento
 

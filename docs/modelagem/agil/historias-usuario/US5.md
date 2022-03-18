@@ -1,11 +1,10 @@
 # US05
 
-### Eu, como usuário, gostaria de ter acesso aos avisos e às notícias
+### Eu, como usuário, gostaria de acompanhar meu pedido de isenção de taxa de inscrição
 
-| Critério de aceitação                                                                                 | Exemplo                                                                 |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Os avisos e notícias deverão estar ordenados pela **data de publicação (Mais recente/Menos recente)** | O usuário deseja se manter atualizado sobre informações do enem         |
-| Os avisos devem ter **filtros por categoria**                                                         | O usuário deseja ver apenas avisos da categoria de ciência e tecnologia |
+| Critério de aceitação                                                      | Exemplo                                                   |
+| -------------------------------------------------------------------------- | --------------------------------------------------------- |
+| deve conter a **data de solicitação** e a possível **data de confirmação** | O usuário deseja saber o tempo limite para este empecilho |
 
 # Versionamento
 

@@ -1,11 +1,11 @@
 # US03
 
-### Eu, como usuário, gostaria de acompanhar minha inscrição
+### Eu, como usuário, gostaria de visualizar o cronograma da prova
 
-| Critério de aceitação                                                       | Exemplo                                                      |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| Listagem de todas as **etapas de inscrição**                                | O usuário deseja consultar previamente as etapas necessárias |
-| As etapas de inscrição devem ser distinguidas **(concluida/não concluida)** | O usuário deseja ver quais etapas ainda estão pendentes      |
+| Critério de aceitação                                                              | Exemplo                                                       |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| O cronograma deve estar ordenado por **data**, da mais próxima até a mais distante | O usuário deseja ver as provas por **ordem de antecedência**  |
+| Eventos que já ocorreram não devem ser listados                                    | O usuário deseja ver apenas eventos que ainda não aconteceram |
 
 # Versionamento
 

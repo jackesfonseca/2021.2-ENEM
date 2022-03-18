@@ -1,10 +1,11 @@
 # US04
 
-### Eu, como usuário, gostaria de acompanhar meu pedido de isenção de taxa de inscrição
+### Eu, como usuário, gostaria de acompanhar minha inscrição
 
-| Critério de aceitação                                                      | Exemplo                                                   |
-| -------------------------------------------------------------------------- | --------------------------------------------------------- |
-| deve conter a **data de solicitação** e a possível **data de confirmação** | O usuário deseja saber o tempo limite para este empecilho |
+| Critério de aceitação                                                       | Exemplo                                                      |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Listagem de todas as **etapas de inscrição**                                | O usuário deseja consultar previamente as etapas necessárias |
+| As etapas de inscrição devem ser distinguidas **(concluida/não concluida)** | O usuário deseja ver quais etapas ainda estão pendentes      |
 
 # Versionamento
 
