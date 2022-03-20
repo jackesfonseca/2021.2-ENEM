@@ -1,11 +1,11 @@
 # US07
 
-### Eu, como usuário, gostaria de consultar minha nota da prova do ENEM
+### Eu, como usuário, gostaria de verificar as perguntas frequentes e as orientações
 
-| Critério de aceitação                                   | Exemplo                                                                   |
-| ------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Deve conter todas os **resultados anteriores do exame** | O usuário deseja ver resultados anteriores para acompanhar seu desempenho |
-| As notas devem estar divididas em áreas de conhecimento | O usuário deseja saber onde deve melhorar para os próximos exames         |
+| Critério de aceitação                                            | Exemplo                                                                      |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Devem estar ordenadas por ordem de prioridade (mais recorrentes) | O usuário deseja encontrar a solução para sua dúvida de forma mais otimizada |
+| Devem mostrar apenas perguntas frequentes                        | O usuário deseja ver apenas perguntas frequentes da versão em contexto       |
 
 # Versionamento
 

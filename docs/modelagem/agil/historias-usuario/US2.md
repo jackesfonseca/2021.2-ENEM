@@ -1,11 +1,10 @@
 # US02
 
-### Eu, como usuário, gostaria de visualizar o cronograma da prova
+### Eu, como usuário, gostaria de deslogar da minha conta
 
-| Critério de aceitação                                                              | Exemplo                                                       |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| O cronograma deve estar ordenado por **data**, da mais próxima até a mais distante | O usuário deseja ver as provas por **ordem de antecedência**  |
-| Eventos que já ocorreram não devem ser listados                                    | O usuário deseja ver apenas eventos que ainda não aconteceram |
+| Critério de aceitação                               | Exemplo                                                         |
+| --------------------------------------------------- | --------------------------------------------------------------- |
+| O usuário deve ser redirecionado para tela de login | O usuário precisará fazer o login novamente depois de um logout |
 
 # Versionamento
 

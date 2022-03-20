@@ -19,27 +19,28 @@ Em Agile, uma história de usuário é uma descrição curta, informal e em ling
 
 ### EP01: Acesso ao aplicativo
 
-| ID   | Feature | História de Usuário                                | Priorização |
-| ---- | ------- | -------------------------------------------------- | ----------- |
-| US01 | Login   | Eu, como usuário, gostaria de logar da minha conta | MUST        |
+| ID                                       | Feature | História de Usuário                                   | Priorização |
+| ---------------------------------------- | ------- | ----------------------------------------------------- | ----------- |
+| [US01](../agil/historias-usuario/US1.md) | Login   | Eu, como usuário, gostaria de logar da minha conta    | MUST        |
+| [US02](../agil/historias-usuario/US2.md) | Logout  | Eu, como usuário, gostaria de deslogar da minha conta | MUST        |
 
 ### EP02: Área do usuário
 
-| ID   | Feature                      | História de Usuário                                                                 | Priorização |
-| ---- | ---------------------------- | ----------------------------------------------------------------------------------- | ----------- |
-| US02 | Consultas de cronograma      | Eu, como usuário, gostaria de visualizar o cronograma da prova                      | SHOULD      |
-| US03 | Consultas de inscrição       | Eu, como usuário, gostaria de acompanhar minha inscrição                            | MUST        |
-| US04 | Consulta de isenção de taxas | Eu, como usuário, gostaria de acompanhar meu pedido de isenção de taxa de inscrição | SHOULD      |
-| US05 | Avisos e notícias            | Eu, como usuário, gostaria de ter acesso aos avisos e às notícias                   | COULD       |
-| US06 | Avisos e notícias            | Eu, como usuário, gostaria de verificar as perguntas frequentes e as orientações    | SHOULD      |
-| US07 | Consultas de prova           | Eu, como usuário, gostaria de consultar minha nota da prova do ENEM                | MUST        |
-| US08 | Consultas de prova           | Eu, como usuário, gostaria de consultar minha vista pedagógica da provas do ENEM    | MUST        |
-| US09 | Consultas de prova           | Eu, como usuário, gostaria de consultar minha redação das provas do ENEM            | MUST        |
-| US10 | Consultas de prova           | Eu, como usuário, gostaria de consultar meu gabarito das provas do ENEM             | SHOULD      |
-| US11 | Consultas de prova           | Eu, como usuário, gostaria de consultar as provas do ENEM                           | COULD       |
-| US12 | Consultas de prova           | Eu, como usuário, gostaria de consultar simulados do ENEM                           | WOULD       |
-| US13 | Consultas de dados           | Eu, como usuário, gostaria de visualizar métricas de desempenho dos participantes   | WOULD       |
-| US14 | Consultas de dados           | Eu, como usuário, gostaria de consultar escopo de conteúdo do exame                 | COULD       |
+| ID                                        | Feature                      | História de Usuário                                                                 | Priorização |
+| ----------------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------- | ----------- |
+| [US03](../agil/historias-usuario/US3.md)  | Consultas de cronograma      | Eu, como usuário, gostaria de visualizar o cronograma da prova                      | SHOULD      |
+| [US04](../agil/historias-usuario/US4.md)  | Consultas de inscrição       | Eu, como usuário, gostaria de acompanhar minha inscrição                            | MUST        |
+| [US05](../agil/historias-usuario/US5.md)  | Consulta de isenção de taxas | Eu, como usuário, gostaria de acompanhar meu pedido de isenção de taxa de inscrição | SHOULD      |
+| [US06](../agil/historias-usuario/US6.md)  | Avisos e notícias            | Eu, como usuário, gostaria de ter acesso aos avisos e às notícias                   | COULD       |
+| [US07](../agil/historias-usuario/US7.md)  | Avisos e notícias            | Eu, como usuário, gostaria de verificar as perguntas frequentes e as orientações    | SHOULD      |
+| [US08](../agil/historias-usuario/US8.md)  | Consultas de prova           | Eu, como usuário, gostaria de consultar minha nota da prova do ENEM                 | MUST        |
+| [US09](../agil/historias-usuario/US9.md)  | Consultas de prova           | Eu, como usuário, gostaria de consultar minha vista pedagógica da provas do ENEM    | MUST        |
+| [US10](../agil/historias-usuario/US10.md) | Consultas de prova           | Eu, como usuário, gostaria de consultar minha redação das provas do ENEM            | MUST        |
+| [US11](../agil/historias-usuario/US11.md) | Consultas de prova           | Eu, como usuário, gostaria de consultar meu gabarito das provas do ENEM             | SHOULD      |
+| [US12](../agil/historias-usuario/US12.md) | Consultas de prova           | Eu, como usuário, gostaria de consultar as provas do ENEM                           | COULD       |
+| [US13](../agil/historias-usuario/US13.md) | Consultas de prova           | Eu, como usuário, gostaria de consultar simulados do ENEM                           | WOULD       |
+| [US14](../agil/historias-usuario/US14.md) | Consultas de dados           | Eu, como usuário, gostaria de visualizar métricas de desempenho dos participantes   | WOULD       |
+| [US15](../agil/historias-usuario/US15.md) | Consultas de dados           | Eu, como usuário, gostaria de consultar escopo de conteúdo do exame                 | COULD       |
 
 ## 4. Bibliografia
 
