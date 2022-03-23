@@ -42,5 +42,5 @@ Após realizada a inspeção, foram encontrados alguns erros como o fluxo das a�
 
 | Versão | Data       | Descrição                                               | Autor(es)      |
 | ------ | ---------- | ------------------------------------------------------- | -------------- |
-| 1.0    | 22/03/2022 | Criação do documento                                    | Jackes Fonseca |
+| 1.0   | 22/03/2022 | Criação do documento                                    | Jackes Fonseca |
 | 1.1    | 22/03/2022 | Adicionando informações sobre a análise do rich picture | Jackes Fonseca |
