@@ -82,7 +82,7 @@ Um cenário é a descrição de uma única instância de uso do sistema [1], e p
 | **Episódios** |   |
 | **Rastreabilidade** | RF12 |
 
-## C08 - Visualizar provas anteriores do Enem
+### C08 - Visualizar provas anteriores do Enem
 | Elementos | Descrição |
 | :--:      | :--: |
 | **Objetivo** | Visualizar provas anteriores para treinar e se acostumar com o ritmo da prova do Enem |
