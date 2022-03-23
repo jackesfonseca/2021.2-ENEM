@@ -65,7 +65,14 @@ nav:
               - US13: modelagem/agil/historias-usuario/US13.md
               - US14: modelagem/agil/historias-usuario/US14.md
       - NRF Framework: modelagem/nfrframework.md
-
+  
+  - Análise:
+      - Verificação: 
+          - Introdução: analise/verificacao/introducao.md
+          - Pré-rastreabilidade:
+          - Elicitação:
+          - Modelagem:
+      - Validação: 
   - Sprints:
       - Sprint 1: sprints/sprint1.md
       - Sprint 2: sprints/sprint2.md
