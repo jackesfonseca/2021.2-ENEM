@@ -65,7 +65,35 @@ nav:
               - US13: modelagem/agil/historias-usuario/US13.md
               - US14: modelagem/agil/historias-usuario/US14.md
       - NRF Framework: modelagem/nfrframework.md
-      
+
+  - Análise:
+      - Validação:
+          - Prototipagem: analise/validacao/prototipagem.md
+          - Validação Informal: analise/validacao/validacao-informal.md
+      - Verificação:
+          - Introdução: analise/verificacao/introducao.md
+          - Pré-rastreabilidade: 
+              - Rich Picture: analise/verificacao/pre-rastreabilidade/rich-picture.md
+          - Elicitação: 
+              - Técnicas de Elicitação:
+                   - Brainstorming: analise/verificacao/elicitacao/tecnicas-elicitacao/brainstorming.md
+                   - Entrevista: analise/verificacao/elicitacao/tecnicas-elicitacao/entrevista.md
+                   - Instrospecção: analise/verificacao/elicitacao/tecnicas-elicitacao/introspeccao.md
+                   - Observação: analise/verificacao/elicitacao/tecnicas-elicitacao/observacao.md
+                   - Questionário: analise/verificacao/elicitacao/tecnicas-elicitacao/questionario.md
+                   - Storytelling: analise/verificacao/elicitacao/tecnicas-elicitacao/storyboard.md
+              - Técnicas de Priorização:
+                   - MoSCoW: analise/verificacao/elicitacao/tecnicas-priorizacao/moscow.md
+                   - Gráfico Tempo X Esforço: analise/verificacao/elicitacao/tecnicas-priorizacao/grafico-esforco-tempo.md
+          - Modelagem: 
+              - Casos de Uso: analise/verificacao/modelagem/casos-uso.md
+              - Cenários: analise/verificacao/modelagem/cenarios.md
+              - Especificação Suplementar: analise/verificacao/modelagem/especificacao-suplementar.md
+              - Léxicos: analise/verificacao/modelagem/lexicos.md
+              - Ágil:
+                  - Backlog: analise/verificacao/modelagem/agil/backlog.md
+              - NRF Framework: analise/verificacao/modelagem/framework-nfr.md
+              
   - Sprints:
       - Sprint 1: sprints/sprint1.md
       - Sprint 2: sprints/sprint2.md
