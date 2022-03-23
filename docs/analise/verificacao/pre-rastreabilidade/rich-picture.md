@@ -1,6 +1,6 @@
 ## 1. Introdução
 
-O presente documento visa verificar o artefato de [Rich Picture](), a fim de  procurar quaisquer erros no modelo em termos de notação, processo ou procedimento atraves da técnica de inspeção.
+O presente documento visa verificar o artefato de [Rich Picture](../../../pre-rastreabilidade/rich_picture.md), a fim de  procurar quaisquer erros no modelo em termos de notação, processo ou procedimento atraves da técnica de inspeção.
 
 ## 2. Planejamento
 
@@ -8,10 +8,10 @@ Foi utilizado um checklist para a realização da inspeção:
 
 | ID  | Tópico                                    |
 | --- | ----------------------------------------- |
-| 01  | O rich picture possui um título?          | 
+| 01  | O rich picture possui um título?          |
 | 02  | Os atores estão bem definidos?            |
-| 03  | As operações estão especificadas?         | 
-| 04  | Todos os atores possuem operação?         | 
+| 03  | As operações estão especificadas?         |
+| 04  | Todos os atores possuem operação?         |
 | 05  | As bases de dados estão presentes?        |
 | 06  | As setas indicam o fluxo corretamente?    |
 | 07  | a fronteira do sistema está específicada? |
@@ -22,13 +22,13 @@ Foi utilizado um checklist para a realização da inspeção:
 
 | ID  | Tópico                                    | Análise |
 | --- | ----------------------------------------- | ------- |
-| 01  | O rich picture possui um título?          | -[]     |
-| 02  | Os atores estão bem definidos?            | -[x]    |
-| 03  | As operações estão especificadas?         | -[x]    |
-| 04  | Todos os atores possuem operação?         | -[x]    |
-| 05  | As bases de dados estão presentes?        | -[x]    |
-| 06  | As setas indicam o fluxo corretamente?    | -[]     |
-| 07  | a fronteira do sistema está específicada? | -[x]    |
+| 01  | O rich picture possui um título?          | ✖       |
+| 02  | Os atores estão bem definidos?            | ✔       |
+| 03  | As operações estão especificadas?         | ✔       |
+| 04  | Todos os atores possuem operação?         | ✔       |
+| 05  | As bases de dados estão presentes?        | ✔       |
+| 06  | As setas indicam o fluxo corretamente?    | ✖       |
+| 07  | a fronteira do sistema está específicada? | ✔       |
 
 ## 4. Conclusão
 
@@ -42,5 +42,5 @@ Após realizada a inspeção, foram encontrados alguns erros como o fluxo das a�
 
 | Versão | Data       | Descrição                                               | Autor(es)      |
 | ------ | ---------- | ------------------------------------------------------- | -------------- |
-| 1.0   | 22/03/2022 | Criação do documento                                    | Jackes Fonseca |
+| 1.0    | 22/03/2022 | Criação do documento                                    | Jackes Fonseca |
 | 1.1    | 22/03/2022 | Adicionando informações sobre a análise do rich picture | Jackes Fonseca |
