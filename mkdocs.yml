@@ -66,6 +66,8 @@ nav:
               - US14: modelagem/agil/historias-usuario/US14.md
       - NRF Framework: modelagem/nfrframework.md
       
+  - Análise:
+      
   - Sprints:
       - Sprint 1: sprints/sprint1.md
       - Sprint 2: sprints/sprint2.md
