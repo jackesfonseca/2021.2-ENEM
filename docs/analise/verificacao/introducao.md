@@ -5,6 +5,7 @@
 O processo de Verificação confirma que o produto de software funciona de forma a refletir adequadamente os requisitos elicitados para ele. Nesse processo, buscamos garantir que os artefatos feitos seguem adequadamente a proposta do modelo, ou seja, se por exemplo, os casos de uso feitos seguem a teoria proposta para o diagrama de casos de uso.
 
 Segundo Fagan, tem-se um método de inspeção que estabele um processo com **seis passos** principais que serão seguidas pelo grupo:
+
 - Planejamento
 - Visão Geral
 - Preparação
@@ -47,7 +48,7 @@ Nesse processo foi separado para 2 integrantes, que atuaram como inspetores, as 
 
 ## 5. Correções e Acompanhamento
 
-Após realizada a inspeção, será feita uma reunião com os integrantes na **semana que a inspeção foi realizada** para que todos possam estar cientes dos problemas identificados. Será realizado também, um acompanhamento em todos os documentos com a frequência de **1 semana** para verificar se os documentos seguem de acordo com o esperado, a fim de minimizar a maior quantidade de erros possíveis.
+Após realizada a inspeção, será feita uma reunião com os integrantes na **semana que a inspeção foi realizada** para que todos possam estar cientes dos problemas identificados, de modo que as correções sejam feitas em até **2 semanas**. Será realizado também, um acompanhamento em todos os documentos com a frequência de **1 semana** para verificar se os documentos seguem de acordo com o esperado, a fim de minimizar a maior quantidade de erros possíveis.
 
 ## 6. Bibliogafia
 
