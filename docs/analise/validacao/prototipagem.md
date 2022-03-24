@@ -10,8 +10,8 @@ Com isso, podemos realizar uma análise visual das especificações elicitadas c
 O protótipo da aplicação ENEM foi feito através da ferramenta Figma utilizando como base as Histórias de Usuário elicitadas no projeto. O design do protótipo seguiu as cores da logo original do aplicativo, porém, mudando alguns aspectos na interface a fim de deixar o visual mais limpo e intuitivo indo assim de encontro com os critérios de usabilidade levantados nos requisitos não-funcionais.
 
 ## 3. Protótipo
-<div style="left: 0; width: 100%; height: 860px; position: relative;"><iframe src="https://www.figma.com/embed?node-id=2%3A2&page-id=0%3A1&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXePR6lzcivMYQYNlkMrtlX%2FENEM%3Fnode-id%3D2%253A2%26page-id%3D0%253A1&embed_host=iframely" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXePR6lzcivMYQYNlkMrtlX%2FENEM%3Fnode-id%3D2%253A5%26starting-point-node-id%3D2%253A5%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 ## 4. Histórias de Usuário atendidas
 
