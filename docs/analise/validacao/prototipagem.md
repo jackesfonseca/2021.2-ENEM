@@ -11,7 +11,7 @@ O protótipo da aplicação ENEM foi feito através da ferramenta Figma utilizan
 
 ## 3. Protótipo
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXePR6lzcivMYQYNlkMrtlX%2FENEM%3Fnode-id%3D2%253A5%26starting-point-node-id%3D2%253A5%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="1000" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXePR6lzcivMYQYNlkMrtlX%2FENEM%3Fnode-id%3D2%253A5%26starting-point-node-id%3D2%253A5" allowfullscreen></iframe>
 
 ## 4. Histórias de Usuário atendidas
 
