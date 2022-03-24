@@ -4,6 +4,14 @@
 
 O processo de Verificação confirma que o produto de software funciona de forma a refletir adequadamente os requisitos elicitados para ele. Nesse processo, buscamos garantir que os artefatos feitos seguem adequadamente a proposta do modelo, ou seja, se por exemplo, os casos de uso feitos seguem a teoria proposta para o diagrama de casos de uso.
 
+Segundo Fagan, tem-se um método de inspeção que estabele um processo com **seis passos** principais que serão seguidas pelo grupo:
+- Planejamento
+- Visão Geral
+- Preparação
+- Inspeção
+- Correção
+- Acompanhamento
+
 ## 2. Planejamento e Visão Geral
 
 O processo de Verificação escolhido pelo grupo foi a Inspeção. Inspeção consiste em revisões estruturadas e minuciosas por pessoas competentes, geralmente dirigidas por **checklists** de verificação de erros. Uma inspeção foi realizada sobre um documento sinalizando se determinado tópico estava sendo atendido (✔) ou não (✖) na documentação referente.
