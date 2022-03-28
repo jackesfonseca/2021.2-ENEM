@@ -17,8 +17,8 @@ Para realizar a verificação do documento [MoSCoW](../../elicitacao/tecnicas-pr
 ## 3. Bibliografia
 [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23.
 
+## 4. Histórico de versão
 
-## 4. Versionamento
-| Versão | Data       | Descrição                                        | Autor                        |
-| ------ | ---------- | ------------------------------------------------ | ---------------------------- |
-| 1.0    | 22/03/2022 | Criação da página                                | Antonio Rangel               |
+| Versão | Data       | Descrição         | Autor          |
+| ------ | ---------- | ----------------- | -------------- |
+| 1.0    | 22/03/2022 | Criação da página | Antonio Rangel |

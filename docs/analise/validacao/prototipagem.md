@@ -25,9 +25,9 @@ As telas desenvolvidas no protótipo atendem as seguintes histórias de usuário
 ## 5. Bibliografia
 ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: além da Interação humano-computador. 3. ed. Porto Alegre: Bookman, 2013.
 
-## 6. Versionamento
+## 6. Histórico de versão
 
-| Versão | Data       | Modificação             | Autor                          |
-| ------ | ---------- | ----------------------- | ------------------------------ |
-| 1.0    | 22/03/2022 | Criação da página       | Eduardo Gurgel |
-| 1.1    | 23/03/2022 | Elaboração da página       | Pedro Henrique Castro |
+| Versão | Data       | Modificação          | Autor                 |
+| ------ | ---------- | -------------------- | --------------------- |
+| 1.0    | 22/03/2022 | Criação da página    | Eduardo Gurgel        |
+| 1.1    | 23/03/2022 | Elaboração da página | Pedro Henrique Castro |

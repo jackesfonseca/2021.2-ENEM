@@ -25,6 +25,11 @@ Para realizar a verificação do documento [NFR Framework](../modelagem/framewor
 ## 3. Bibliografia
 [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23.
 
+## 4. Histórico de versão
+
+| Versão | Data       | Descrição         | Autor          |
+| ------ | ---------- | ----------------- | -------------- |
+| 1.0    | 22/03/2022 | Criação da página | Antonio Rangel |
 
 ## 4. Versionamento
 | Versão | Data       | Descrição                                        | Autor                        |

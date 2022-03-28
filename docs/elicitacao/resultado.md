@@ -42,9 +42,9 @@ O objetivo desse documento é reunir todos os requistos que foram elicitados par
 | RNF08 |  O aplicativo deve deve se adaptar bem a dispositivos mobile | [BF](tecnicas-elicitacao/brainstorming.md)  | MUST  |
 | RNF10 |  O aplicativo deve possuir funcionalidades em modo offline | [SF](tecnicas-elicitacao/storyboard.md)  | COULD  |
 
-## 4. Versionamento
+## 4. Histórico de versão
 
-| Versão | Data | Descrição | Autor |
-|--------|------|-----------|-------|
-| 1.0    | 18/02/2022 | Criação do Documento | Carlos rafael |
+| Versão | Data       | Descrição              | Autor          |
+| ------ | ---------- | ---------------------- | -------------- |
+| 1.0    | 18/02/2022 | Criação do Documento   | Carlos rafael  |
 | 1.1    | 20/02/2022 | Adicionando resultados | Jackes Fonseca |
