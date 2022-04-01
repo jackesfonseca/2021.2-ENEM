@@ -1,9 +1,31 @@
 # Matriz Forward-From
 ## 1. Introdução
 
+Rastreabilidade é uma característica de sistemas, nos quais os requisitos são claramente ligados às suas fontes, bem como aos artefatos criados durante o ciclo de vida de desenvolvimento do sistema. Um elo é estabelecido entre as mudanças realizadas diante das necessidades dos usuários.
 
+A Pós-rastreabilidade consiste em requisitos sendo ligados a artefatos que são criados durante o ciclo de vida de desenvolvimento do sistema.
 
-## 2. Matriz com Requisitos Funcionais
+A técnica de Pós-rastreabilidade Forward-From visa ligar requisitos a artefatos de desenho e implementação.
+
+## 2. Legenda
+Os elos de rastreabilidade deixam evidentes as correlações entre código e demais artefatos, sejam de desenho e/ou de requisitos.
+O Meta-modelo de Toranzo permite debater sobre os elos de rastreabilidade. Nesse modelo, as informações a serem rastreadas devem ser classificadas em quatro níveis:
+
+- Ambiental: congrega informações oriundas do contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido;
+- Organizacional: reune informações relacionadas à organização (missão, objetivos, metas e padrões) e que podem impactar os requisitos do sistema;
+- Gerencial: agrega informações que permitem associar tarefas a requisitos, e que podem auxiliar a gerência do projeto;
+- Desenvolvimento: abarca informações relacionadas aos diversos artefatos gerados no processo de Desenvolvimento, Gerencial;
+
+E os principais elos de rastreabilidade são:
+
+- Satisfação: classe origem tem dependência de satisfação com a classe destino.
+- Recurso: classe origem tem dependência de recurso com a classe destino.
+- Responsabilidade: registra a participação, responsabilidade e ação de pessoas sobre artefatos.
+- Representação: captura a representação ou modelagem dos requisitos em outras linguagens.
+- Alocado: classe origem está relacionada à classe destino, que representa um subsistema.
+- Agregação: indica “composição” de elementos.
+
+## 3. Matriz com Requisitos Funcionais
 | ID | Requisito | Cenários | Léxicos | Casos de Uso | Histórias de Usuário | Categoria | Elo |
 | -- | --------- | -------- | ------- | ------------ | -------------------- | --------- | --- |
 | RF01 | O usuário deve ser capaz de fazer o login através do gov.br        | [C01](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/cenarios/#c01-login-unico)         |         |              | [US01](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/agil/historias-usuario/US1/)                     |           |     |
@@ -23,13 +45,14 @@
 | RF15 |         |          |         |              |                      |           |     |
 
 
-## 3. Matriz com Requisitos Não-Funcionais
+## 4. Matriz com Requisitos Não-Funcionais
 
 
-## 4. Bibliografia
+## 5. Bibliografia
 
 
-## 5. Histórico de versão
+## 6. Histórico de versão
 | Versão | Data       | Descrição                                                                      | Autor   |
 | ------ | ---------- | ------------------------------------------------------------------------------ | ------- |
 | 1.0    | 30/03/2022 | Criação do documento                                                           | Antonio |
+| 1.1    | 01/04/2022 | Adicionando introdução                                                         | Vitor |
