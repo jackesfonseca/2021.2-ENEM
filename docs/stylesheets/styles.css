@@ -51,3 +51,7 @@ p img {
   .md-ellipsis {
     display: none;
   }
+
+  .divisoria {
+    border-bottom: 1px solid var(--md-typeset-table-color);
+}
