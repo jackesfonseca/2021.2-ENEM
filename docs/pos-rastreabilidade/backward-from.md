@@ -54,7 +54,7 @@ A tabela que representa a rastreabilidade contém cinco colunas, ID que lista os
 ## 3. Requisitos Não - Funcionais
 
 | ID    | Requisito | Técnica | Categoria |  Elo |
-|       |           |         |           |      |
+|-------|-----------|---------|-----------|------|
 | RNF01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md) | Gerencial |  Elo |
 | RNF02 | O aplicativo deve recusar o acesso de pessoas não autorizadas | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md) | Gerencial |  Elo |
 | RNF03 | O aplicativo deve proteger os dados dos usuários                                                                                 | [BF](../elicitacao/tecnicas-elicitacao/brainstorming.md), [IF](../elicitacao/tecnicas-elicitacao/introspeccao.md), [QF](../elicitacao/tecnicas-elicitacao/questionario.md)                                                                                                 | Ambiental |  Elo |
