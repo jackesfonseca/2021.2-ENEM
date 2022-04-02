@@ -47,6 +47,17 @@ E os principais elos de rastreabilidade são:
 
 ## 4. Matriz com Requisitos Não-Funcionais
 
+| ID    | Requisito                                                                                                                        | Léxicos                                                                                                                                                                                                            | NFR | Especificação suplementar |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ---------- |
+| RNF01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional                                                           | [L01](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/lexicos/) | [Portabilidade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)        |
+| RNF02 | O aplicativo deve recusar o acesso de pessoas não autorizadas                                                                    | [L01](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/lexicos/) | [Confiabilidade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)        |
+| RNF03 | O aplicativo deve proteger os dados dos usuários                                                                                 | - | [Confiabilidade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)        |
+| RNF04 | O aplicativo deve ser acessível para Pessoas com Deficiência (PcD)                                                               | - | [Acessibilidade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)        |
+| RNF05 | O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos                                                 | - | [Navegabilidade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)        |
+| RNF06 | O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo                                               | - | [Navegabilidade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)        |
+| RNF07 | O aplicativo deve ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada | - | [Intuitividade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)      |
+| RNF08 | O aplicativo deve deve se adaptar bem a dispositivos mobile                                                                      | - | [Portabilidade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)        |
+| RNF10 | O aplicativo deve possuir funcionalidades em modo offline | - | [Navegabilidade](https://requisitos-de-software.github.io/2021.2-ENEM/modelagem/nfrframework/)       |
 
 ## 5. Bibliografia
 
