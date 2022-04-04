@@ -12,7 +12,7 @@
 
 | Versão | Data       | Descrição                       | Autor                |
 | ------ | ---------- | ------------------------------- | -------------------- |
-| 1.0    | 09/03/2022 | Criação dos slides             | Todos os integrantes    |
-| 1.1    | 09/03/2022 | Gravação da apresentação        | Todos os integrantes |
-| 1.2    | 10/03/2022 | Criação do documento    | Eduardo Gurgel    |
-| 1.3    | 10/03/2022 | Adição do vídeo no documento    | Eduardo Gurgel    |
+| 1.0    | 02/04/2022 | Criação dos slides             | Todos os integrantes    |
+| 1.1    | 02/04/2022 | Gravação da apresentação        | Todos os integrantes |
+| 1.2    | 03/04/2022 | Criação do documento    | Eduardo Gurgel    |
+| 1.3    | 03/04/2022 | Adição do vídeo no documento    | Eduardo Gurgel    |
