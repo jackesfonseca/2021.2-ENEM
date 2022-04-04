@@ -1,5 +1,7 @@
 # US04
 
+[Backlog](../backlog.md)
+
 ### Eu, como usuário, gostaria de acompanhar minha inscrição
 
 | Critério de aceitação                                                       | Exemplo                                                      |

@@ -1,5 +1,7 @@
 # US02
 
+[Backlog](../backlog.md)
+
 ### Eu, como usuário, gostaria de deslogar da minha conta
 
 | Critério de aceitação                               | Exemplo                                                         |

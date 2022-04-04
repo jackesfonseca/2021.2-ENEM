@@ -1,5 +1,7 @@
 # US06
 
+[Backlog](../backlog.md)
+
 ### Eu, como usuário, gostaria de ter acesso aos avisos e às notícias
 
 | Critério de aceitação                                                                                 | Exemplo                                                                 |

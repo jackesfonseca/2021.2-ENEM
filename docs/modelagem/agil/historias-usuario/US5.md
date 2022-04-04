@@ -1,5 +1,7 @@
 # US05
 
+[Backlog](../backlog.md)
+
 ### Eu, como usuário, gostaria de acompanhar meu pedido de isenção de taxa de inscrição
 
 | Critério de aceitação                                                      | Exemplo                                                   |
