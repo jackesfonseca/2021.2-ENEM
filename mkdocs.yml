@@ -29,6 +29,9 @@ nav:
   - Pré-rastreabilidade:
       - Rich Picture: pre-rastreabilidade/rich_picture.md
 
+  - Pós-rastreabilidade:
+      - Forward-From: pos-rastreabilidade/forward-from.md
+
   - Elicitação:
       - Técnicas de Elicitação:
           - Brainstorming: elicitacao/tecnicas-elicitacao/brainstorming.md
