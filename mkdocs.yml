@@ -94,9 +94,8 @@ nav:
                   - Backlog: analise/verificacao/modelagem/agil/backlog.md
               - NRF Framework: analise/verificacao/modelagem/framework-nfr.md
               
-  - Pós-rastreabilidade:
-      - Matriz Backward-From: pos-rastreabilidade/backward-from.md
-      - Matriz Forward-From: pos-rastreabilidade/forward-from.md
+  - Matriz Backward-From: pos-rastreabilidade/backward-from.md
+  - Matriz Forward-From: pos-rastreabilidade/forward-from.md
            
   - Sprints:
       - Sprint 1: sprints/sprint1.md
