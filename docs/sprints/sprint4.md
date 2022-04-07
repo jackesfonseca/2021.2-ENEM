@@ -1,6 +1,9 @@
 # Planejamento da Sprint 4 - Verificação e Validação
 
+Nesta sprint, focamos na verificação e validação dos artefatos, com o objetivo de encontrar inconsistências e alguns erros para que sejam corrigidos.
+
 Período: De 10/03/2022 até 23/03/2022
+Apresentação: [Verificação e Validação](../apresentacoes/apresentacao5.md)
 
 ## 1. Atividades
 
@@ -51,6 +54,7 @@ Período: De 10/03/2022 até 23/03/2022
 
 ## 3. Histórico de versão
 
-| Versão | Data       | Descrição            | Autor  |
-| ------ | ---------- | -------------------- | ------ |
-| 1.0    | 27/03/2022 | Criação do documento | Carlos |
+| Versão | Data       | Descrição                               | Autor  |
+| ------ | ---------- | --------------------------------------- | ------ |
+| 1.0    | 27/03/2022 | Criação do documento                    | Carlos |
+| 1.1    | 07/04/2022 | Adicionando hyperlink para apresentação | Carlos |

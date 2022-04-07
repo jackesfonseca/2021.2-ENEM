@@ -1,6 +1,9 @@
 # Planejamento da Sprint 5 - Gerência II
 
+Nesta sprint, focamos em metodologias para nos ajudar no rastreamento dos requisitos.
+
 Período: De 24/03/2022 até 03/04/2022
+Apresentação: [Gerência II](../apresentacoes/apresentacao6.md)
 
 ## 1. Atividades
 
@@ -25,6 +28,7 @@ Período: De 24/03/2022 até 03/04/2022
 
 ## 3. Histórico de versão
 
-| Versão | Data       | Descrição            | Autor  |
-| ------ | ---------- | -------------------- | ------ |
-| 1.0    | 07/04/2022 | Criação do documento | Carlos |
+| Versão | Data       | Descrição                               | Autor  |
+| ------ | ---------- | --------------------------------------- | ------ |
+| 1.0    | 07/04/2022 | Criação do documento                    | Carlos |
+| 1.1    | 07/04/2022 | Adicionando hyperlink para apresentação | Carlos |

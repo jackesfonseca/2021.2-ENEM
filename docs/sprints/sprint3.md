@@ -1,6 +1,9 @@
 # Planejamento da Sprint 3 - Histórias de usuário, Backlog e NFR Framework
 
+Nesta sprint, trabalhamos com documentos e artefatos, que estão presentes nas metodologias ágeis atuais.
+
 Período: De 07/03/2022 até 09/03/2022
+Apresentação: [Histórias de usuário, Backlog e NFR Framework](../apresentacoes/apresentacao4.md)
 
 ## 1. Atividades
 
@@ -50,3 +53,4 @@ Período: De 07/03/2022 até 09/03/2022
 | ------ | ---------- | ------------------------------------------- | ------- |
 | 1.0    | 13/03/2022 | Criação do documento                        | Antonio |
 | 1.1    | 27/03/2022 | Adicionando artefatos trabalhados na sprint | Carlos  |
+| 1.2    | 07/04/2022 | Adicionando hyperlink para apresentação     | Carlos  |
