@@ -17,7 +17,6 @@ Foi utilizado um checklist para a realização da inspeção:
 | 07  | Possui referências textuais?                                                       |
 | 08  | O documento está coeso e coerente?                                                 |
 
-
 ## 3. Verificação
 
 | ID  | Tópico                                                                             | Análise |
@@ -35,11 +34,11 @@ Foi utilizado um checklist para a realização da inspeção:
 
 De acordo, com o planejamento o artefato não apresentou nenhuma necessidade de alteração.
 
-## 5. Referências
+## 5. Bibliografia
 
 1. SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-## 6. Histórico de versão 
+## 6. Histórico de versão
 
 | Versão | Data       | Descrição                                            | Autor(es)      |
 | ------ | ---------- | ---------------------------------------------------- | -------------- |

@@ -34,7 +34,7 @@ Foi utilizado um checklist para a realização da inspeção:
 
 De acordo, com o planejamento o artefato não apresentou nenhuma necessidade de alteração.
 
-## 5. Referências
+## 5. Bibliografia
 
 1. SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
