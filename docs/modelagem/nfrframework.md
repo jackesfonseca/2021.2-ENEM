@@ -59,6 +59,9 @@ determinado sistema (CHUNG et al., 2000).
 <center>
 <figcaption> Figura 03 - NFR Framework Geral sem propagação </figcaption>
 </center>
+<center>
+<figcaption> <strong>Autor: </strong>Eduardo Gurgel e Jackes Fonseca</figcaption>
+</center>
 
 ### 6.2 Diagrama Geral com propagação
 
@@ -66,6 +69,9 @@ determinado sistema (CHUNG et al., 2000).
 
 <center>
 <figcaption> Figura 04 - NFR Framework Geral com propagação </figcaption>
+</center>
+<center>
+<figcaption> <strong>Autor: </strong>Eduardo Gurgel e Jackes Fonseca</figcaption>
 </center>
 
 ## 7. Bibliografia
