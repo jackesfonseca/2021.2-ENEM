@@ -69,7 +69,8 @@ Os diagramas de casos de uso ajuda muito no entendimento do contexto e fluxo do 
 
 ## 6. Histórico de versão
 
-| Versão | Data       | Modificação             | Autor                          |
-| ------ | ---------- | ----------------------- | ------------------------------ |
-| 1.0    | 04/03/2022 | Criação da página       | Antonio Rangel e Carlos Rafael |
-| 2.0    | 05/03/2022 | Elaboração do documento | Antonio Rangel e Carlos Rafael |
+| Versão | Data       | Modificação                                            | Autor                          |
+| ------ | ---------- | ------------------------------------------------------ | ------------------------------ |
+| 1.0    | 04/03/2022 | Criação da página                                      | Antonio Rangel e Carlos Rafael |
+| 1.1    | 05/03/2022 | Elaboração do documento                                | Antonio Rangel e Carlos Rafael |
+| 1.2    | 07/04/2022 | Melhorando diagramas e adicionando autor dos artefatos | Carlos Rafael                  |
