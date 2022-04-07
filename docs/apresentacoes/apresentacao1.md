@@ -1,4 +1,4 @@
-# Apresentação 1
+# 1. Apresentação 1
 
 <center>
 
@@ -6,10 +6,10 @@
 
 </center>
 
-## 3. Histórico de versão
+# 2. Histórico de versão
 
-| Versão | Data       | Descrição                       | Autor                |
-| ------ | ---------- | ------------------------------- | -------------------- |
-| 1.0    | 05/02/2022 | Criação do documento            | Jackes da Fonseca    |
-| 1.1    | 05/02/2022 | Gravação da apresentação        | Todos os integrantes |
-| 1.2    | 08/02/2022 | Adição do vídeo no documento    | Jackes da Fonseca    |
+| Versão | Data       | Descrição                    | Autor                |
+| ------ | ---------- | ---------------------------- | -------------------- |
+| 1.0    | 05/02/2022 | Criação do documento         | Jackes da Fonseca    |
+| 1.1    | 05/02/2022 | Gravação da apresentação     | Todos os integrantes |
+| 1.2    | 08/02/2022 | Adição do vídeo no documento | Jackes da Fonseca    |

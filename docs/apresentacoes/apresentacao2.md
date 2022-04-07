@@ -1,4 +1,4 @@
-# Apresentação 2
+# 1. Apresentação 2
 
 <center>
 
@@ -6,7 +6,7 @@
 
 </center>
 
-## 3. Histórico de versão
+# 2. Histórico de versão
 
 | Versão | Data       | Descrição                    | Autor                |
 | ------ | ---------- | ---------------------------- | -------------------- |
