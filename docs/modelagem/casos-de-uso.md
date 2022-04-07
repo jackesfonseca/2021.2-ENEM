@@ -24,27 +24,35 @@ Casos de usos são utilizados para ilustrar/descrever uma funcionalidade do sist
 
 ## 3. Diagrama casos de uso
 
-#### 3.1. Descrição do diagrama
-
-**Login do usuário**
+#### 3.1. Diagrama de **Login do usuário**
 
 ![Login App](./img/EnemApp.drawio.png)
 
+<center>
+<figcaption> <strong>Autor:</strong> Carlos Rafael</figcaption>
+</center>
+
+#### 3.1.1. Descrição
+
 O Usuário informa seu CPF, ele é validado de duas formas, através do login único, CPF válido e se o usuário foi candidato do enem nos últimos anos. Depois de passar da etapa de autenticação, o usuário ver uma tela com opções do contexto como ver cronograma, simulados e notas anteriores.
 
-#### 3.2. Objetivo
+#### 3.1.2. Objetivo
 
 Entendimento do fluxo de acesso do usuário no aplicativo
 
-#### 3.3. Descrição do diagrama
-
-**Resultados Anteriores**
+#### 3.2. Diagrama de **Resultados Anteriores**
 
 ![Login App](./img/resultado_anteriores.drawio.png)
 
+<center>
+<figcaption> <strong>Autor:</strong> Carlos Rafael</figcaption>
+</center>
+
+#### 3.2.1. Descrição
+
 O Usuário acessa a aba de resultados(exames) anteriores, com o poder de escolher o ano desejado e ter acesso a visão geral de notas, redação ou visão pedagógica.
 
-#### 3.4. Objetivo
+#### 3.2.2. Objetivo
 
 Entendimento do fluxo de acesso do usuário no contexto de resultados de exames anteriores.
 
