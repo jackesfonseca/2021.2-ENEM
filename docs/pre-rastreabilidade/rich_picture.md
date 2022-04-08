@@ -8,9 +8,17 @@ Rich Picture é um artefato que é construido a fim de ilustrar de forma visual 
 
 ![v0.0.1](img/rich_picture-v1.png)
 
+<center>
+<figcaption> <strong>Autor:</strong> Jackes da Fonseca </figcaption>
+</center>
+
 ## 3. Versão 1.1
 
 <img src="https://user-images.githubusercontent.com/53023400/153007860-1c71be7f-2588-4e31-8752-8b3a75aca388.jpg"><br>
+
+<center>
+<figcaption> <strong>Autor:</strong> Antonio Rangel e Carlos Rafael </figcaption>
+</center>
 
 ## 4. Bibliografia
 
@@ -23,3 +31,4 @@ Rich Picture é um artefato que é construido a fim de ilustrar de forma visual 
 | 1.0    | 29/01/2022 | Criação da primeira versão          | Jackes da Fonseca              |
 | 1.1    | 01/02/2022 | Segunda versão utilizando o figma   | Antonio Rangel e Carlos Rafael |
 | 1.2    | 10/02/2022 | Padronização do histórico de versão | Jackes da Fonseca              |
+| 1.3    | 07/04/2022 | Adicionando autores                 | Carlos Rafael                  |

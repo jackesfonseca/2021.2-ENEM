@@ -1,4 +1,4 @@
-# Apresentação 1
+# 1. Apresentação 2
 
 <center>
 
@@ -6,10 +6,11 @@
 
 </center>
 
-## 3. Histórico de versão
+# 2. Histórico de versão
 
-| Versão | Data       | Descrição                       | Autor                |
-| ------ | ---------- | ------------------------------- | -------------------- |
-| 1.0    | 05/02/2022 | Criação do documento            | Eduardo Gurgel    |
-| 1.1    | 05/02/2022 | Gravação da apresentação        | Todos os integrantes |
-| 1.2    | 08/02/2022 | Adição do vídeo no documento    | Eduardo Gurgel    |
+| Versão | Data       | Descrição                    | Autor                |
+| ------ | ---------- | ---------------------------- | -------------------- |
+| 1.0    | 05/02/2022 | Criação do documento         | Eduardo Gurgel       |
+| 1.1    | 05/02/2022 | Gravação da apresentação     | Todos os integrantes |
+| 1.2    | 08/02/2022 | Adição do vídeo no documento | Eduardo Gurgel       |
+| 1.3    | 07/04/2022 | Ajustes nos títulos          | Carlos Rafael        |

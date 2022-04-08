@@ -42,11 +42,25 @@ Em Agile, uma história de usuário é uma descrição curta, informal e em ling
 | [US14](../agil/historias-usuario/US14.md) | Consultas de dados           | Eu, como usuário, gostaria de visualizar métricas de desempenho dos participantes   | WOULD       |
 | [US15](../agil/historias-usuario/US15.md) | Consultas de dados           | Eu, como usuário, gostaria de consultar escopo de conteúdo do exame                 | COULD       |
 
-## 4. Bibliografia
+## 4. Requisitos não funcionais
+
+| ID    | Requisito                                                                                                                        | Priorização |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| RNF01 | O aplicativo deve ter compatibilidade com qualquer sistema operacional                                                           | MUST        |
+| RNF02 | O aplicativo deve recusar o acesso de pessoas não autorizadas                                                                    | MUST        |
+| RNF03 | O aplicativo deve proteger os dados dos usuários                                                                                 | MUST        |
+| RNF04 | O aplicativo deve ser acessível para Pessoas com Deficiência (PcD)                                                               | MUST        |
+| RNF05 | O aplicativo deve consegui suportar uma grande quantidade de acessos simultâneos                                                 | MUST        |
+| RNF06 | O aplicativo deve ter baixo tempo de espera mesmo durante períodos de grande fluxo                                               | MUST        |
+| RNF07 | O aplicativo deve deve ter ter uma interface amigável na qual com no máximo 3 cliques o usuário consiga realizar a ação desejada | SHOULD      |
+| RNF08 | O aplicativo deve deve se adaptar bem a dispositivos mobile                                                                      | MUST        |
+| RNF10 | O aplicativo deve possuir funcionalidades em modo offline                                                                        | COULD       |
+
+## 5. Bibliografia
 
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.
 
-## 5. Histórico de versão
+## 6. Histórico de versão
 
 | Versão | Data       | Descrição                                        | Autor                        |
 | ------ | ---------- | ------------------------------------------------ | ---------------------------- |
@@ -54,3 +68,4 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.
 | 1.1    | 08/03/2022 | Elaboração do documento                          | Pedro Henrique e Vitor Diniz |
 | 1.2    | 08/03/2022 | Corrigindo ortografio e padronizando documento   | Pedro Henrique e Vitor Diniz |
 | 1.3    | 08/03/2022 | Removendo histórias fora do escopo do aplicativo | Pedro Henrique e Vitor Diniz |
+| 1.4    | 07/04/2022 | Adicionando requisitos não funcionais            | Carlos Rafael                |

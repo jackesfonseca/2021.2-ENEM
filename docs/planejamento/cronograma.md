@@ -15,7 +15,7 @@
 |  III   |    [Modelagem de Requisitos](../sprints/sprint2.md)     |     22/02      |         Cenários, Léxico, Casos de Uso e Especificação Suplementar         |      06/03      |
 |   IV   | [Modelagem de Requisitos - Ágil](../sprints/sprint3.md) |     08/03      |               Histórias de Usuário, Backlog e NFR Framework                |      09/03      |
 |   V    |     [Análise de Requisitos](../sprints/sprint4.md)      |     10/03      |                          Verificação & Validação                           |      23/03      |
-|   VI   |                   Pós-Rastreabilidade                   |     24/03      | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos |      03/04      |
+|   VI   |      [Pós-Rastreabilidade](../sprints/sprint5.md)       |     24/03      | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos |      03/04      |
 |  VII   |                   Apresentação final                    |     05/04      |                            Conclusão do projeto                            |      25/04      |
 
 <figcaption>Tabela 1: Cronograma de atividades.</figcaption>

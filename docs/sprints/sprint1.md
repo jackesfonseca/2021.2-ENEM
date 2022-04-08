@@ -2,7 +2,10 @@
 
 Observação: A equipe decidiu adotar sprints depois da primeira entrega, por isso a sprint 1 contém atividades da segunda entrega.
 
+Nesta sprint, focamos em técnicas que nos ajudassem no entendimento do contexto do aplicativo.
+
 Período: De 17/02/2022 até 20/02/2022
+Apresentação: [Elicitação de Requisitos e Técnicas de priorização](../apresentacoes/apresentacao2.md)
 
 ## 1. Atividades
 
@@ -51,3 +54,4 @@ Período: De 17/02/2022 até 20/02/2022
 | ------ | ---------- | ------------------------------------------- | ------- |
 | 1.0    | 03/03/2022 | Criação do documento                        | Antonio |
 | 1.1    | 27/03/2022 | Adicionando artefatos trabalhados na sprint | Carlos  |
+| 1.2    | 07/04/2022 | Adicionando hyperlink para apresentação     | Carlos  |
